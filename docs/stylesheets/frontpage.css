@@ -125,3 +125,26 @@
     justify-content: center;
   }
 }
+
+
+.narrow-cards li > p:first-child strong {
+  font-size: 1.4rem !important;
+  font-weight: 600 !important;
+  display: block !important;
+  margin: 0.2rem 0 0.5rem 0 !important;
+  line-height: 1.3 !important;
+}
+
+
+.narrow-cards li > p:nth-child(3) {
+  font-weight: 400 !important;
+  font-size: 0.95rem !important;
+  color: var(--md-default-fg-color--light) !important;
+  margin: 0 0 0.6rem 0 !important;
+}
+
+
+[data-md-color-scheme="slate"] .narrow-cards li > p:nth-child(3) {
+  color: var(--md-default-fg-color--dark) !important;
+  opacity: 0.9 !important;
+}
