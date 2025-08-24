@@ -27,8 +27,16 @@ html, body {
   transform-origin: top right;
   z-index: -1;
   pointer-events: none;
-  filter: sepia(100%) saturate(200%) hue-rotate(200deg) brightness(100%) opacity(40%);
 }
+
+[data-md-color-scheme="slate"] .background-logo {
+  filter: sepia(100%) saturate(200%) hue-rotate(200deg) brightness(100%) opacity(40%) blur(2px);
+}
+
+[data-md-color-scheme="smooth-default"] .background-logo {
+  filter: sepia(100%) saturate(200%) hue-rotate(200deg) brightness(100%) opacity(100%);
+}
+
 
 /* Assure que le logo ne dépasse pas */
 .background-logo img {
