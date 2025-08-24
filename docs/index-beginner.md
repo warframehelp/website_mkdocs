@@ -10,7 +10,7 @@
 
     [:octicons-arrow-right-24: Carte Céleste](#carte-céleste)
 
--   ###:fontawesome-brands-markdown:{ .lg .middle } __Quêtes principales__
+-   :fontawesome-brands-markdown:{ .lg .middle } __Quêtes principales__
 
     ---
 
@@ -18,7 +18,7 @@
 
     [:octicons-arrow-right-24: Quêtes](#quêtes)
 
--   ###:material-format-font:{ .lg .middle } __Warframes__
+-   :material-format-font:{ .lg .middle } __Warframes__
 
     ---
 
@@ -26,7 +26,7 @@
 
     [:octicons-arrow-right-24: Warframes](#warfrmes)
 
--   ###:material-scale-balance:{ .lg .middle } __Armes__
+-   :material-scale-balance:{ .lg .middle } __Armes__
 
     ---
 
@@ -34,7 +34,7 @@
 
     [:octicons-arrow-right-24: Armes](#armes)
 
--   ###:material-scale-balance:{ .lg .middle } __Rangs de Maîtrise__
+-   :material-scale-balance:{ .lg .middle } __Rangs de Maîtrise__
 
     ---
 
@@ -42,7 +42,7 @@
 
     [:octicons-arrow-right-24: Maîtrise](#maîtrise--mastery-rank)
 
--   ###:material-scale-balance:{ .lg .middle } __Mods__
+-   :material-scale-balance:{ .lg .middle } __Mods__
 
     ---
 

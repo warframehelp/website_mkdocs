@@ -2,7 +2,7 @@
 
 <div class="grid cards" markdown>
 
--   ###:material-clock-fast:{ .lg .middle } __Frames conseillées__
+-   :material-clock-fast:{ .lg .middle } __Frames conseillées__
 
     ---
 
@@ -10,7 +10,7 @@
 
     [:octicons-arrow-right-24: Frames](#frames-conseillées)
 
--   ###:fontawesome-brands-markdown:{ .lg .middle } __Armes conseillées__
+-   :fontawesome-brands-markdown:{ .lg .middle } __Armes conseillées__
 
     ---
 
@@ -18,7 +18,7 @@
 
     [:octicons-arrow-right-24: Armes](#armes-conseillées)
 
--   ###:material-format-font:{ .lg .middle } __Compagnons essentiels__
+-   :material-format-font:{ .lg .middle } __Compagnons essentiels__
 
     ---
 
@@ -26,7 +26,7 @@
 
     [:octicons-arrow-right-24: Compagnons](#compagnons--essentiels)
 
--   ###:material-scale-balance:{ .lg .middle } __Mods : base__
+-   :material-scale-balance:{ .lg .middle } __Mods : base__
 
     ---
 
@@ -34,7 +34,7 @@
 
     [:octicons-arrow-right-24: License](#mods--base)
 
--   ###:material-scale-balance:{ .lg .middle } __Youtube__
+-   :material-scale-balance:{ .lg .middle } __Youtube__
 
     ---
 

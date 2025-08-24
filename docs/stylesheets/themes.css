@@ -7,7 +7,7 @@
 }
 
 [data-md-color-scheme="slate"] .grid.cards li:has(a[href]:not([href="#"])):hover {
-  outline: 1px solid #69ffffab; 
+  outline: 1px solid #69cbffab; 
 }
 
 
