@@ -1,0 +1,65 @@
+site_name: Warframe Help
+site_url: https://warframe.help/
+
+nav:
+  - Acceuil: index.md
+  - Débutant: index-beginner.md
+  - Steelpath: index-sp.md
+  - About: about.md
+
+theme:
+  name: material
+  language: en
+  logo: assets/logo.png
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: indigo
+      accent: green
+
+    # Light Mode
+    - scheme: smooth-default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: indigo
+      accent: light green 
+  features:
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+
+extra:
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: Français
+      link: /fr/
+      lang: fr
+  analytics:
+    provider: google
+    property: G-F0XRGZX4LE
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      
+
+extra_css:
+  - stylesheets/grid-links.css
+  - stylesheets/themes.css
+  - stylesheets/frontpage.css
+  - https://rsms.me/inter/inter.css 
