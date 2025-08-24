@@ -16,8 +16,16 @@
     padding: 0;
 }
 
-.md-header__button.md-logo img, .md-header__button.md-logo svg {
+
+[data-md-color-scheme="smooth-default"] .md-header__button.md-logo img, .md-header__button.md-logo svg {
     height: 1rem;
     width: 1.2rem;
-    filter: brightness(90%);
+    filter: sepia(100%) saturate(75%) hue-rotate(150deg) brightness(90%);
+}
+
+
+[data-md-color-scheme="slate"] .md-header__button.md-logo img, .md-header__button.md-logo svg {
+    height: 1rem;
+    width: 1.2rem;
+    filter: sepia(100%) saturate(200%) hue-rotate(200deg) brightness(100%);
 }
