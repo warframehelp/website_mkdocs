@@ -5,6 +5,7 @@ nav:
   - Acceuil: index.md
   - Débutant: index-beginner.md
   - Steelpath: index-sp.md
+  - Checklist hebdo : weekly-checklist.md
   - About: about.md
 
 theme:

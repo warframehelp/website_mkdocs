@@ -1,5 +1,5 @@
 [data-md-color-scheme="smooth-default"] {
-  --md-default-bg-color:     #345e741b; 
+  --md-default-bg-color:     #dce7f0; 
 }
 
 [data-md-color-scheme="smooth-default"] .grid.cards li:has(a[href]:not([href="#"])):hover {
@@ -28,4 +28,13 @@
     height: 1rem;
     width: 1.2rem;
     filter: sepia(100%) saturate(200%) hue-rotate(200deg) brightness(100%);
+}
+
+
+[data-md-color-scheme="slate"] .md-nav__button.md-logo img {
+    filter: sepia(100%) saturate(200%) hue-rotate(200deg) brightness(100%);
+}
+
+[data-md-color-scheme="smooth-default"] .md-nav__button.md-logo img {
+    filter: sepia(100%) saturate(75%) hue-rotate(150deg) brightness(90%);
 }

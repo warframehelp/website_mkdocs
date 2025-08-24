@@ -4,6 +4,7 @@ hide:
   - toc
 ---
 
+<div class="background-logo"></div>
 <div class="home-page">
 
 <div markdown="0" class="header-section">
@@ -23,27 +24,35 @@ hide:
 
 </div>
 
-<div class="home-page" markdown>
+
 <div class="grid cards narrow-cards" markdown>
 
 -   ###:material-clock-fast:{ .lg .middle } __Débutant__
 
     ---
 
-    Install [`mkdocs-material`](#) with [`pip`](#) and get up
-    and running in minutes
+    Tout pour bien débuter au jeu
 
     [:octicons-arrow-right-24: Getting started](/index-beginner)
+
 
 -   ###:fontawesome-brands-markdown:{ .lg .middle } __Steelpath__
 
     ---
 
-    Focus on your content and generate a responsive and searchable static site
+    Le "hard mode" de Warframe, à portée de tous
 
     [:octicons-arrow-right-24: Reference](/index-sp)
 
 
-</div>
+-   ###:fontawesome-brands-markdown:{ .lg .middle } __Checklist Hebdo__
+
+    ---
+
+    Récapitulatif du contenu hebdomadaire offrant les meilleures récompenses
+
+    [:octicons-arrow-right-24: Reference](/weekly-checklist)
+
 
 </div>
+

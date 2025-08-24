@@ -1,30 +1,73 @@
+html, body {
+  overflow-x: hidden !important;
+  width:100%
+}
+
 .home-page {
   max-width: 88%;
   margin: 0 auto;
   padding: 0 1.5rem;
+  position: relative;
+  overflow:  hidden !important;
 }
+
+/* Logo en arrière-plan (angle supérieur droit) */
+.background-logo {
+  position: absolute;
+  top: 0;
+  right: 100px; /* Décale de 100px vers la gauche */
+  width: 400px;
+  height: 400px;
+  background-image: url('../assets/logo.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top right;
+  opacity: 0.3;
+  transform: rotate(20deg) scaleX(-1.15) scaleY(0.90) translateX(110px) translateY(-25px); /* Décalage supplémentaire vers la gauche */
+  transform-origin: top right;
+  z-index: -1;
+  pointer-events: none;
+  filter: sepia(100%) saturate(200%) hue-rotate(200deg) brightness(100%) opacity(40%);
+}
+
+/* Assure que le logo ne dépasse pas */
+.background-logo img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Ajustement pour mobile */
+@media (max-width: 768px) {
+  .background-logo {
+    width: 250px;
+    height: 250px;
+    opacity: 0.2;
+  }
+}
+
 
 .subtitle {
     font-size: 1.30rem;
 }
 
-/* Alignement du texte des langues */
+
 .subtitle2 {
   margin: 0;
   text-align: right;
-  line-height: 1.2; /* Rapproche les lignes si besoin */
-  align-self: flex-start; /* Force l'alignement en haut */
+  line-height: 1.2; 
+  align-self: flex-start; 
 }
 
 .subtitle2 .lang-link {
-  color: inherit !important; /* Hérite de la couleur du texte */
-  text-decoration: underline; /* Souligné pour indiquer qu'il est cliquable */
-  font-weight: 500; /* Légèrement plus épais */
+  color: inherit !important; 
+  text-decoration: underline; 
+  font-weight: 500; 
   transition: color 0.2s ease;
 }
 
 .subtitle2 .lang-link:hover {
-  color: var(--md-primary-fg-color) !important; /* Couleur primaire au survol */
+  color: var(--md-primary-fg-color) !important; 
   text-decoration: none;
 }
 
@@ -52,7 +95,7 @@
 }
 
 .inverted-logo {
-  display: none;
+  display:none !important;
 }
 
 /* Logo étiré en largeur */
@@ -114,8 +157,9 @@
     font-size: 2rem !important;
   }
   .header-section {
-    justify-content: center;
+    justify-content: flex-start;
     text-align: center;
+    flex-wrap: wrap;
   }
   .text-content {
     flex: none;
