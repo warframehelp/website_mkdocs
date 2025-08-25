@@ -33,7 +33,7 @@ hide:
 
     Tout pour bien débuter au jeu
 
-    [:octicons-arrow-right-24: Getting started](/index-beginner)
+    [:octicons-arrow-right-24: Getting started](beginner)
 
 
 -   ###:fontawesome-brands-markdown:{ .lg .middle } __Steelpath__
@@ -42,7 +42,7 @@ hide:
 
     Le "hard mode" de Warframe, à portée de tous
 
-    [:octicons-arrow-right-24: Reference](/index-sp)
+    [:octicons-arrow-right-24: Reference](steelpath/)
 
 
 -   ###:fontawesome-brands-markdown:{ .lg .middle } __Checklist Hebdo__

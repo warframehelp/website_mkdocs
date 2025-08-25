@@ -2,10 +2,23 @@ site_name: Warframe Help
 site_url: https://warframe.help/
 
 nav:
-  - Acceuil: index.md
-  - Débutant: index-beginner.md
-  - Steelpath: index-sp.md
-  - Checklist hebdo : weekly-checklist.md
+  - Accueil: index.md
+  - Débutant: 
+    - beginner/index.md
+    - Carte Céleste: beginner/starchart.md
+    - Warframes: beginner/warframes-bg.md
+  - Steelpath: 
+    - steelpath/index.md
+    - Warframes: steelpath/warframes-sp.md
+    - Armes: steelpath/weapons.md
+    - Compagnons: steelpath/pets.md
+    - Armor-Strip: steelpath/armorstrip.md
+    - Acolytes: steelpath/acolytes.md
+    - Opérateur: steelpath/operator.md
+    - Farm: steelpath/farm.md
+    - Autres: steelpath/misc.md
+    - Content: steelpath/content.md
+  - Checklist hebdomadaire : weekly-checklist.md
   - About: about.md
 
 theme:
@@ -32,6 +45,10 @@ theme:
     - navigation.top
     - search.suggest
     - search.highlight
+    - navigation.expand
+    - navigation.indexes
+    - toc.follow
+
 
 
 extra:

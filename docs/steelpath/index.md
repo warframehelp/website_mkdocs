@@ -1,0 +1,148 @@
+# Steel Path : Points essentiels
+
+<div class="grid cards" markdown>
+
+-   :material-clock-fast:{ .lg .middle } __Frames conseillées__
+
+    ---
+
+    Choisir une frame
+
+    [:octicons-arrow-right-24: Frames](/steelpath/warframes-sp/)
+
+-   :fontawesome-brands-markdown:{ .lg .middle } __Armes conseillées__
+
+    ---
+
+    Choisir une arme
+
+    [:octicons-arrow-right-24: Armes](#armes-conseillées)
+
+-   :material-format-font:{ .lg .middle } __Compagnons essentiels__
+
+    ---
+
+    Choisir un compagnon
+
+    [:octicons-arrow-right-24: Compagnons](#compagnons--essentiels)
+
+-   :material-scale-balance:{ .lg .middle } __Mods : base__
+
+    ---
+
+    Choper / monter les mods prioritaires
+
+    [:octicons-arrow-right-24: License](#mods--base)
+
+-   :material-scale-balance:{ .lg .middle } __Youtube__
+
+    ---
+
+    Suivre un build récent dans les chaînes du haut de la liste
+
+    [:octicons-arrow-right-24: License](#youtube)
+
+</div>
+
+-----------
+
+
+Les infos présentées ici n'ont pas vocation à être exhaustives : il peut manquer des frames, des armes, etc. Ce n'est pas grave et vous obtiendrez surtout les outils pour ajuster vos connaissances à toutes les situations de jeu Steel Path.
+
+Utilisez les concepts et noms comme des mots-clés pour vos [recherches](#comment-chercher) sur le [wiki.warframe.com](https://wiki.warframe.com) ou Youtube chez vos créateurs de [contenu](#contenu) préférés.
+
+
+## Objectifs
+Deux éléments principaux pour se débrouiller en Steel Path : **survivre** et arriver à **vaincre les ennemis**.
+
+Il faudra : 
+- une [frame](#warframes) et une [arme](#armes) solides et accessibles
+- un [modding](#mods--base) adapté
+- utiliser des sources de [contenu](#contenu) carrées pour les builds.
+- bien intégrer la [mobilité](https://www.youtube.com/watch?v=WoKVEisXJhE) comme [outil](https://wiki.warframe.com/w/Maneuvers) de survie supplémentaire.
+
+
+
+## C'est quoi le Steel Path ?
+
+Il faut comprendre ce qu'est le [Steel Path](https://wiki.warframe.com/w/The_Steel_Path) pour s'y adapter correctement :
+
+- "hard mode" débloqué après avoir complété les missions de la [carte céleste](https://wiki.warframe.com/w/Star_Chart) accessibles avant la quête [Nouvelle Guerre](https://wiki.warframe.com/w/The_New_War)
+- s'active dans la navigation à droite de l'écran au milieu, une fois débloqué
+- les ennemis sont [renforcés](https://wiki.warframe.com/w/Enemy_Level_Scaling) :
+    - +100 lvl, 250% de vie et boucliers (archwing +50lvl)
+    - densité/spawn MAX d'ennemis en missions endless (survie, cascade etc) comme pour une squad max de 4 joueurs en normal
+    - spawns d'[Acolytes](https://wiki.warframe.com/w/Acolytes) toutes les 3-7mn
+- les loots sont améliorés :
+    - +100% chance drop ressource, +100% chance drop mod
+    - acolytes drop des [arcanes steel path](https://wiki.warframe.com/w/Arcane_Enhancement) + essence d'acier
+    - ouvrir une relique en SP donne 1 essence d'acier bonus
+    - droprate augmenté d'éclats de Riven sur les eximus (boutique [Iron Wake](https://wiki.warframe.com/w/Riven_Sliver#Usage))
+    - les drops de jetons sont + généreux dans leurs missions respectives (pinces Pathos Duviri, Kullervo, Dante, Citrine, Voruna, Dagath, Jade, Koumei, Temple)
+
+### Essence d'acier
+L'[essence d'acier](https://wiki.warframe.com/w/Steel_Essence) gagnée vous donne accès à la [boutique de Teshin](https://wiki.warframe.com/w/The_Steel_Path#Steel_Essence) :
+
+- packs de reliques
+- packs de kuva (reroll rivens)
+- [rotation hebdomadaire](https://wiki.warframe.com/w/The_Steel_Path#Teshin's_Steel_Path_Honors_shop_-_Weekly_Rotating_Offer)
+    - BP forma umbra
+    - gros pack endo
+    - gros pack kuva
+    - rivens
+
+Sources principales :
+
+- drop des [acolytes](https://wiki.warframe.com/w/Acolytes) en mission Steel Path drop 2 essences
+    - pensez à cumuler des boosters : 1 booster de drop donnera 4 essences par acolyte, avoir un mod récupérateur doublera à 8 par acolyte
+    - faire des fissures reliques longue augmente encore plus loin les essences reçues par acolyte : on aura plus d'essences à faire 1h de survie d'une traite qu'une heure à enchaîner des captures steelpath
+- faire les incursion Steel Path dans vos alertes (nécessite d'avoir sélectionné le Steel Path en navigation) pour 5 essences : certaines sont rapides et il y a souvent du monde qui participe
+- compléter une planète Steel Path donne 25 essences
+- ouvrir une relique en Steel Path donne 1 essence
+- etc...
+
+
+## Mods : base
+
+Les mods sont essentiels, en variété (différents mods) et qualité (montés à fond) :
+
+
+- **MONTER TES MODS** : farmer du **crédit** et de l'**endo** cf [section Farm](#farm)
+- [farmer](#farm) les [**mods corrompus**](https://wiki.warframe.com/w/Corrupted_Mods) (et [apothiques](https://www.youtube.com/results?search_query=apothic%20farm%20warframe))
+- faire de l'[**arbitrage**](#Docs) (alerte + boutique relai chez les arbitres d'hexis) pour avoir des [mods galvanisés](https://wiki.warframe.com/w/Galvanized_Mods).
+- choper les [mods de compagnon](https://wiki.warframe.com/w/Companion_Mods) : [mods de bond](https://wiki.warframe.com/w/Bond_Mods), [mods de griffe](https://wiki.warframe.com/w/Beast_Claws_Mods), mods [récupérateur](https://wiki.warframe.com/w/Category:Retriever_Mods), [radars](https://wiki.warframe.com/w/Primed_Animal_Instinct), [Synth Deconstruct](https://wiki.warframe.com/w/Synth_Deconstruct), [Guardian](https://wiki.warframe.com/w/Guardian)...
+- récupérer les mods de l'[Augure](https://wiki.warframe.com/w/Category:Augur_Mods) et du [Chasseur](https://wiki.warframe.com/w/Hunter_Set)
+
+Voir pour plus d'infos : [Mods : survivre](#mods-arme--survivre) et [Mods : dégats](#mods-arme--dégats).
+
+## Loadouts basiques
+
+[Compagnon](#compagnons) parmi ceux conseillés, une [arme](#armes) principale pour les dégats et les autres armes pour aider votre frame ou votre arme principale : stat-stick (Argonak pour dague, Praedos pour vitesse...), [primers](#priming), voire une arme anti-boss (acolyte/demolyste/autre) et le reste pour les hordes de "trash-mobs".
+
+
+- Rhino + Ignis Wraith viral/feu ou Tenet Cycron Feu
+- Dante + ce que vous voulez
+- Wisp + Broken War / Guandao Prime
+- Trinity + Kuva Nukor Viral/Feu (Valence Magnetique ou Feu)
+- Nova + Laetum
+- Valkyr seule ou avec mêlée de votre choix
+- Kullervo + Thalys
+- etc...
+
+---------------------------------
+
+## AUTRES / DIVERS
+- el classico "Craft un **Forma** par jour"
+- surveiller les alertes :
+  - Invasions (reacteurs / catalystes prio)
+- **archon shards**, cf [checklist hebdo](#checklist--hebdomadaire)
+- Aya : la boutique s'accède directement dans l'orbiteur > market > menu déroulant > avant-dernière catégorie "Resurgence Prime"
+
+### Arcanes
+-- En construction --
+  - le combo arcane Blessing (point de vie par orbre de santé) + Guardian (bonus armure) peut aider pour le steel path. On fera pas lvl cap avec mais ce n'est pas le but actuel.
+  - Arcane Egide/Aegis même rang 0 peuvent te sauver aussi.
+  - cherche des adaptateurs d'arcanes primaire/secondaire chez Teshin pour pouvoir équiper les arcanes que l'on gagne en SteelPath sur les acolytes. Adaptateurs mếlée dans le labo Entrati.
+
+
+
