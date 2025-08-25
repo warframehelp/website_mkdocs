@@ -1,6 +1,5 @@
-html, body {
+.header {
   overflow-x: hidden !important;
-  width:100%
 }
 
 .home-page {
