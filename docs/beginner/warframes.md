@@ -4,11 +4,11 @@
 
 ## Starters
 
-Les 3 starters sont bons, prenez ce qui vous semble le plus cool/sympa & vous pourrez toutes les obtenir au final.
+Les 3 starters sont bons, prenez ce qui vous semble le plus cool/sympa. Pas d'inquiétudes, vous pourrez toutes les obtenir au final.
 
 ![Volt](../assets/beginner/600px-VoltFull.webp){ width="100" align=right }
 
-- **[Volt](https://wiki.warframe.com/w/Volt)** : la plus populaire chez les joueurs même accomplis. Orientée vitesse et boosts électriques.
+- **[Volt](https://wiki.warframe.com/w/Volt)** : la plus populaire même chez les joueurs accomplis. Orientée vitesse et boosts électriques.
 ??? note "Volt : détails"
     - Court vite & tape vite en mếlée (sort 2)
     - a un bouclier pare-balles qui boost les crits et rajoute des dégâts électriques (sort 3)
@@ -26,7 +26,7 @@ Les 3 starters sont bons, prenez ce qui vous semble le plus cool/sympa & vous po
 
 ![Mag](../assets/beginner/600px-MagFull.webp){ width="100" align=right }
 
-- **[Mag](https://wiki.warframe.com/w/Mag)** :  Très complète. Orientée caster, contrôle et régénération de boucliers.
+- **[Mag](https://wiki.warframe.com/w/Mag)** :  très complète. Orientée caster, contrôle et régénération de boucliers.
 
 ??? note "Mag : détails"
     - passif : un aspirateur a loot intégré très pratique

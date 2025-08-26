@@ -61,18 +61,24 @@
  
 
 ## Warframe ?
-Warframe est shooter-looter avec des ninjas de l'espace, orienté power fantasy (on devient super-mega-fort à exploser des hordes d'ennemis).
+
+[How to Warframe - video 5mn](https://www.youtube.com/watch?v=Yghvq5878QI)
+
+Warframe est looter-shooter avec des ninjas de l'espace, orienté power fantasy (on devient super-mega-fort à exploser des hordes d'ennemis).
 On tue plein de trucs de plein de manières en récoltant des ressources pour être de plus en plus efficace et varié.
 
 Au menu :
 
-- du **loot** /farm (armes, armures (warframes), ressources).
 - du **shoot** avec un arsenal très varié et personalisable dans le fond (efficacité) et la forme (skins, fashion-frame)
+- du **loot** /farm (armes, armures (warframes), ressources)
 - du style **ninja** (excellente mobilité, bullet-jumps, sauts sur les murs etc...)
 - de l'**espace** : tout le système stellaire et des coins bizarres à explorer
 
 Il est aussi possible de farmer encore plus pour échanger de la monnaie premium (plats/platines) avec d'autres joueurs, l'économie est très développée et on peut s'acheter plein de trucs premium en étant "Free to play".
 
-[How to Warframe - video 5mn](https://www.youtube.com/watch?v=Yghvq5878QI)
 
--------------------------------------
+!!! note "Téléchargement, cross-plateforme"
+
+    - [Steam](https://store.steampowered.com/app/230410/Warframe/)
+    - [Client officiel](https://www.warframe.com/download)
+    - dispo sur PS, Xbox, Switch, Mobile
