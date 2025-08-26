@@ -26,13 +26,13 @@
 
     [:octicons-arrow-right-24: Warframes](steelpath.md)
 
--   :material-format-font:{ .lg .middle } __Steelpath__
+-   :fontawesome-regular-gem:{ .lg .middle } __Steelpath__
 
     ---
 
     Choisir vos premières frames
 
-    [:octicons-arrow-right-24: Warframes](steelpath.md)
+    [:octicons-arrow-right-24: Steelpath](steelpath.md)
 
 
 </div>
