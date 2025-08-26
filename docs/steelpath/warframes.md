@@ -1,4 +1,4 @@
-# WARFRAMES
+# Warframes Steel-path
 
 Se focaliser sur un tout **petit pool de warframes** au début, de préférence avec déjà de bons outils de survie embarqués de base sans trop d'investissement.
 

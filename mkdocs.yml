@@ -5,11 +5,17 @@ nav:
   - Accueil: index.md
   - Débutant: 
     - beginner/index.md
+    - Warframes: beginner/warframes.md
+    - Armes: beginner/weapons.md
+    - Compagnons: beginner/pets.md
+    - Modding: beginner/mods.md
     - Carte Céleste: beginner/starchart.md
-    - Warframes: beginner/warframes-bg.md
+    - Quêtes: beginner/quests.md
+    - Missions: beginner/missions.md
+    - Rangs de Maîtrise: beginner/mastery-rank.md
   - Steelpath: 
     - steelpath/index.md
-    - Warframes: steelpath/warframes-sp.md
+    - Warframes: steelpath/warframes.md
     - Armes: steelpath/weapons.md
     - Compagnons: steelpath/pets.md
     - Armor-Strip: steelpath/armorstrip.md
@@ -17,8 +23,8 @@ nav:
     - Opérateur: steelpath/operator.md
     - Farm: steelpath/farm.md
     - Autres: steelpath/misc.md
-    - Content: steelpath/content.md
   - Checklist hebdomadaire : weekly-checklist.md
+  - Content: content.md
   - About: about.md
 
 theme:
