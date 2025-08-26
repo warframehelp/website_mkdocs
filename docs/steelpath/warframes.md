@@ -4,7 +4,7 @@ Se focaliser sur un tout **petit pool de warframes** au début, de préférence 
 
 Se forcer à bien lire les descriptifs complets du kit de la frame (Arsenal>Survol Frame>Abilities : lire le passif, compétence et tous les tips).
 
-Penser à rajouter un [Helminth](#helminth) de dég
+Penser à rajouter un [Helminth](#helminth) de dégâts.
 
 ## FRAMES CONSEILLÉES
 La sélection est déjà réduite, pour pousser encore plus loin les **top prio / super-meta / facile** sont indiqués en **gras** :
@@ -130,7 +130,8 @@ On peut s'en protéger de différentes manières via des [immunités](https://wi
 
 **Immunité contrôles :**
 
-- ["Huge DPS Increase"](https://i.redd.it/7cjfimaln0xd1.gif)
+!["Huge DPS Increase"](../assets/steelpath/PSF.gif){ width="150" align=right }
+
 - pas obligatoire, fortement **recommandé**. En steel path il y a + d'eximus et une plus grande densité de mobs : + de contrôles dangereux. Etre immunisé permet d'éviter de mourir pendant qu'un mob te fait tomber sans pouvoir réagir
 - avoir une frame immunisée via compétences ou [Overguard]([url](https://wiki.warframe.com/w/Overguard)) (cf [warframes](#warframes))
 - utiliser [Primed Sure Footed](https://wiki.warframe.com/w/Primed_Sure_Footed) ou [Handspring](https://wiki.warframe.com/w/Handspring) pour les contrôles

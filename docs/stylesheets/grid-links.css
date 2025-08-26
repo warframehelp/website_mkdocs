@@ -39,7 +39,7 @@ div.grid.cards.narrow-cards .md-grid li {
 
 .grid.cards li:hover {
   background-color: var(--md-default-fg-color--lightest);
-  transform: translateY(2px);
+  transform: translateY(-2px);
   box-shadow: 0 0.5em 1em -0.5em rgba(0, 0, 0, 0.1);
 }
 

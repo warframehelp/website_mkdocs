@@ -6,7 +6,7 @@
 
 Les 3 starters sont bons, prenez ce qui vous semble le plus cool/sympa & vous pourrez toutes les obtenir au final.
 
-
+![Volt](../assets/beginner/600px-VoltFull.webp){ width="100" align=right }
 
 - **[Volt](https://wiki.warframe.com/w/Volt)** : la plus populaire chez les joueurs même accomplis. Orientée vitesse et boosts électriques.
 ??? note "Volt : détails"
@@ -14,6 +14,7 @@ Les 3 starters sont bons, prenez ce qui vous semble le plus cool/sympa & vous po
     - a un bouclier pare-balles qui boost les crits et rajoute des dégâts électriques (sort 3)
     - a un nuke + contrôle AoE électrique (sort 4, utile plus tard avec + de mods)
 
+![Excalibur](../assets/beginner/600px-ExcaliburFull.webp){ width="100" align=right }
 
 - **[Excalibur](https://wiki.warframe.com/w/Excalibur)** : la frame emblématique du jeu. Orientée mếlée (épée). Ulti qui claque.
 
@@ -23,6 +24,7 @@ Les 3 starters sont bons, prenez ce qui vous semble le plus cool/sympa & vous po
     - du CC : le 2 blind les ennemis (et les cameras !) et les ouvre aux finishers, le 3 dps un peu en prime
     - a un ultime (sort 4) avec une épée spectrale qui envoie des lames d'énergie à distance.
 
+![Mag](../assets/beginner/600px-MagFull.webp){ width="100" align=right }
 
 - **[Mag](https://wiki.warframe.com/w/Mag)** :  Très complète. Orientée caster, contrôle et régénération de boucliers.
 
