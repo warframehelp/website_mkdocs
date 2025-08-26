@@ -36,7 +36,7 @@ hide:
 
     Tout pour bien débuter au jeu
 
-    [:octicons-arrow-right-24: Débutant](beginner)
+    [:octicons-arrow-right-24: Débutant](beginner/index.md)
 
 
 -   ###:fontawesome-brands-markdown:{ .lg .middle } __Steelpath__
@@ -45,16 +45,7 @@ hide:
 
     Le "hard mode" de Warframe, à portée de tous
 
-    [:octicons-arrow-right-24: Steelpath](steelpath/)
-
-
--   ###:fontawesome-brands-markdown:{ .lg .middle } __Mods__
-
-    ---
-
-    Comment trouver et choisir les mods adaptés
-
-    [:octicons-arrow-right-24: Mods essentiels](/weekly-checklist)
+    [:octicons-arrow-right-24: Steelpath](steelpath/index.md)
 
 
 -   ###:fontawesome-brands-markdown:{ .lg .middle } __Checklist Hebdo__
@@ -63,7 +54,25 @@ hide:
 
     Récapitulatif offrant les meilleures récompenses
 
-    [:octicons-arrow-right-24: Checklist Hebdo](/weekly-checklist)
+    [:octicons-arrow-right-24: Checklist Hebdo](weekly-checklist.md)
+
+
+-   ###:fontawesome-brands-markdown:{ .lg .middle } __Farm__
+
+    ---
+
+    Farming de ressources & de plats
+
+    [:octicons-arrow-right-24: Farming](farm.md)
+
+
+-   ###:fontawesome-brands-markdown:{ .lg .middle } __Mods__
+
+    ---
+
+    Comment trouver et choisir les mods adaptés
+
+    [:octicons-arrow-right-24: Mods essentiels](mods.md)
 
 
 -   ###:fontawesome-brands-markdown:{ .lg .middle } __Références__
@@ -72,7 +81,7 @@ hide:
 
     Contenu externe : sites (wiki officiel), gdocs, youtube, twitch, discord
 
-    [:octicons-arrow-right-24: Références](/content)
+    [:octicons-arrow-right-24: Références](content.md)
 
 
 </div>

@@ -1,7 +1,11 @@
 # Farm
 
 Sans ressources, pas de craft, pas de mods montés.
+
 Pour éviter la misère il faudra acquérir des ressources, de préférence efficacement.
+
+Identifier les bons spots, utiliser les bons outils et jouer en groupe sera plus profitable.
+
 
 
 ## **Ressources**
@@ -10,18 +14,18 @@ Pour identifier les sources de [ressources](https://wiki.warframe.com/w/Resource
 
 - survoler une ressource dans un blueprint de la fonderie, le texte vous donnera des infos
 - cliquer dans la navigation sur une planète et en bas à droite accéder à l'interface d'extracteur de ressource, vous verrez les ressources basiques droppables sur la planète
-- chercher votre ressource sur le [wiki warframe](https://wiki.warframe.com), voir [Contenu](#contenu) pour plus d'infos
+- chercher votre ressource sur le [wiki warframe](https://wiki.warframe.com), voir [Contenu](../content.md) pour plus d'infos
 
 
 ### **Ressources : Boosters**
 Très importants, cumuler des **boosters** permettra d'obtenir beaucoup plus de ressources dans un même laps de temps.
-Le  [booster de ressources]() est le plus important, les autres ne valent pas le coût en plat à moins que vous ayez déjà une bonne entrée de [plats](#plats) ce qui viendra plus tard.
+Le  [booster de ressources](https://wiki.warframe.com/w/Resource_Booster) (orange) est le plus important, les autres ne valent pas le coût en plat à moins que vous ayez déjà une bonne entrée de [plats](#plats), ce qui viendra plus tard.
 
 Source de booster de ressources :
 
-- [warframes de farm](#frames-de-farm)
+- [warframes de farm](warframes.md/#frames-de-farm)
 - [compagnons](https://gist.github.com/mijkami/71551f1d06959ccaef305571477fb9d8#compagnons)
-- market : [booster de ressources](). Coûte des plats, après les emplacements est un achat prioritaire qui vous permettra d'accélérer votre farm de ressources ET votre farm de plats (cercle virtueux). Les boosters de 30j sont les plus rentables en coût/journée effective.
+- market : [booster de ressources](https://wiki.warframe.com/w/Resource_Booster). Coûte des plats, après les emplacements est un achat prioritaire qui vous permettra d'accélérer votre farm de ressources ET votre farm de plats (cercle virtueux). Les boosters de 30j sont les plus rentables en coût/journée effective.
 - [reliques endless](https://wiki.warframe.com/w/Void_Fissure#Endless_Missions) (survie, défense...) : cumule jusqu'à +100% chances de drops ressources
 - booster de bénédiction d'un MR 30+ en relai (aller en relai pour afk / faire une pause et choper quelques bénés)
 
@@ -57,7 +61,7 @@ Chaque planète a un node "Dark Sector" avec un une icone différente et un boos
 - _Cryotique_ : missions [Excavation](https://wiki.warframe.com/w/Excavation)
     - **early** : Tikal, Terre
 - _Hexenon_ :
-    - L'idéal est d'utiliser des [extracteurs de ressource]() et de ne pas farmer directement pour gagner du temps
+    - L'idéal est d'utiliser des [extracteurs de ressource](https://wiki.warframe.com/w/Extractor) et de ne pas farmer directement pour gagner du temps
     - Survie, Jupiter
 - _Plastides_ : 
     - **early** : Deimos, partout
@@ -116,7 +120,7 @@ Chaque planète a un node "Dark Sector" avec un une icone différente et un boos
 
 #### **Open-world**
 Pêche, minage & conservation : sources de poissons, minerais & jetons.
-Ne pas oublier votre animal pour le [double-drop](#ressources--boosters). Une frame tanky anti-CC (rhino) voire invisible (Ivara, longue durée) rendra l'expérience plus agréable.
+Ne pas oublier votre animal pour le [double-drop](#ressources-boosters). Une frame tanky anti-CC (rhino) voire invisible (Ivara, longue durée) rendra l'expérience plus agréable.
 
 ##### Pêche
 ??? note "Pêche : détails"
@@ -173,25 +177,33 @@ Top des sources d'XP :
 ### **XP : Boosters**
 
 Le booster d'XP de la boutique n'est pas nécessaire mais appréciable.
-Plus tard vous pourrez aussi obtenir un [Kavat Smeeta]() qui donne un buff 300% XP via son mod [Charm](). Voir [compagnons](#compagnons) pour plus d'infos
+Plus tard vous pourrez aussi obtenir un [Kavat Smeeta](https://wiki.warframe.com/w/Smeeta_Kavat) qui donne un buff 300% XP via son mod [Charm]https://wiki.warframe.com/w/Charm). Voir [compagnons](pets.md) pour plus d'infos
 
 ### **XP : Spots**
 
 Vous utiliserez rarement toutes vos armes, pensez à équiper dans les emplacements non utilisés des armes dont vous monterez l'XP passivement en jouant.
 
-- Frame, Arme :
-    - Helene, Saturne (Défense)
-    - Sanctuaire & Sanctuaire Elite (débloqué après la quête [La Nouvelle Étrange](https://wiki.warframe.com/w/The_New_Strange))
+Limiter les armes équipées pour focaliser l'apport d'XP sur 1 ou 2 armes.
 
-- Archwing : Salacia, Neptune (Defense Mobile)
-
+- **débutant** :
+    - **public**
+        - Helene, Saturne (Défense)
+        - sanctuaire / sanctu elite  (débloqué après la quête [La Nouvelle Étrange](https://wiki.warframe.com/w/The_New_Strange)) :
+            - l'xp des alliés pour monter vos armes (les laisser tuer un peu)
+            - vos propres kills pour monter vos frames : mettre l'helminth de Gauss sur le 1 de la frame + mods caster (Flow, max range, max puissance)
+        - Archwing : Salacia, Neptune (Defense Mobile)
+- **confirmé** :
+    - **public** :
+        - [Elara](https://www.youtube.com/watch?v=aw33zyUmADU) sur Neptune avec un crewmate monté, sélectionner serveurs asiatiques
+    - **solo** :
+        -  Plaines Eidolon [1](https://www.youtube.com/watch?v=Z6pQMaYj-EE&t=964s&pp=ygURZWxhcmEgeHAgd2FyZnJhbWU%3D), [2](https://www.youtube.com/watch?v=Rcd0RE3IG6A)
 
 ------------
 
 ## **Crédits**
 
 Vous permettra surtout d'acheter vos plans dans le market et monter vos mods.
-Servira aussi plus tard pour les [mods prime] en les achetant chez le [Baro Ki'teer]() ou échangeant avec d'autres joueurs (taxe de trade élevée en crédits).
+Servira aussi plus tard pour les [mods prime] en les achetant chez le [Baro Ki'teer](https://wiki.warframe.com/w/Baro_Ki%27Teer) ou échangeant avec d'autres joueurs (taxe de trade élevée en crédits).
 
 ### **Crédits : Boosters**
 
@@ -202,30 +214,43 @@ Le booster de crédit de la boutique n'est pas nécessaire mais appréciable.
 - la warframe [Chroma](https://wiki.warframe.com/w/Chroma) vous permettra de doubler les crédits ramassés, très utile dans certaines missions
 
 ### **Crédits : Sources**
-- ??? note "vente de doublons"
-    - echap > equipement > inventaire. Menu déroulant à droite, sélectionner "doublons". Vendre les parties de frame en doublon que vous avez qui ne sont pas échangeables (ex : "Harrow chassis", vous en choperez plein en permanence)
-    - /!\ vente de mods : ne JAMAIS vendre vos mods pour des crédits, le gain est limité et il faut toujours prioriser l'endo quand on détruit des mods en doublons
-- farm Dark Sector: maps avec des boosts supplémentaires, un par planète (ex :  Gabii sur Ceres )
-- farm [mission longue](#missions-longues)
-- Index sur Neptune, partir en groupe / multi au début pour être accompagné
-- Railjack : possibilité d'être accompagné en mission railjack dès que vous avez un archwing, bonne source de crédits/ressources. Proxima de la Terre et de Venus sont assez accessibles.
+
+- **Débutants**
+    - ??? note "vente de doublons"
+        - echap > equipement > inventaire. Menu déroulant à droite, sélectionner "doublons". Vendre les parties de frame en doublon que vous avez qui ne sont pas échangeables (ex : "Harrow chassis", vous en choperez plein en permanence)
+        - /!\ vente de mods : ne JAMAIS vendre vos mods pour des crédits, le gain est limité et il faut toujours prioriser l'endo quand on détruit des mods en doublons
+    - farm Dark Sector: maps avec des boosts supplémentaires, un par planète (ex :  Gabii sur Ceres )
+    - farm [mission longue](starchart.md)
+    - Index sur Neptune, partir en groupe / multi au début pour être accompagné
+    - Railjack : possibilité d'être accompagné en mission railjack dès que vous avez un archwing, bonne source de crédits/ressources. Proxima de la Terre et de Venus sont assez accessibles.
+
+- **Confirmés**
+    - Index sur Neptune
+    - Drops Crédits (utiliser le 4 de Chroma) :
+        - Caches en capture sur 1999
+        - Profit-Taker
+    - Railjack
+
 
 ------------
 
 ## **Endo**
 
-Sert à monter les [mods](#mods).
+Sert à monter les [mods](mods.md).
 
-Sources d'endo au début du jeu :
+- **débutant** :
+    - **dissoudre des mods en doublon**. Il y a même une interface pour ça, gardez une dizaine de doublons par mod au cas où avant de mieux vous y connaître sur leur valeur.
+    - faire la **[sortie hebdo de Maroo](https://wiki.warframe.com/w/Maroo#Weekly_Mission)** sur Mars pour les [statues ayatan](https://wiki.warframe.com/w/Ayatan_Treasures)
+    - ??? note "détails"
+        
+            - nécessite d'avoir complété la quête [Stolen Dream](https://wiki.warframe.com/w/Stolen_Dreams) après la jonction de Phobos
+            - penser à réparer les statues ayatan avec des étoiles ayatan pour augmenter leur valeur en endo : on y ajoute des étoiles ayatan trouvées en mission dans des caisses, via l'interface de fusion de mod en haut à droite
+            - donner en retour des statues ayatan fusionnées à Maroo pour obtenir le maximum d'endo par statue
 
-- **dissoudre des mods en doublon**. Il y a même une interface pour ça, gardez une dizaine de doublons par mod au cas où avant de mieux vous y connaître sur leur valeur.
-- faire la **[sortie hebdo de Maroo](https://wiki.warframe.com/w/Maroo#Weekly_Mission)** sur Mars pour les [statues ayatan](https://wiki.warframe.com/w/Ayatan_Treasures)
-   - ??? note "détails"
-    
-        - nécessite d'avoir complété la quête [Stolen Dream](https://wiki.warframe.com/w/Stolen_Dreams) après la jonction de Phobos
-        - penser à réparer les statues ayatan avec des étoiles ayatan pour augmenter leur valeur en endo : on y ajoute des étoiles ayatan trouvées en mission dans des caisses, via l'interface de fusion de mod en haut à droite
-        - donner en retour des statues ayatan fusionnées à Maroo pour obtenir le maximum d'endo par statue
-
+- **confirmé** :
+    - arènes sur Sedna (builds sur [contenu discord](content.md))
+    - bounties haut niveau sur Deimos/Zariman/Entrati/1999
+    - Railjack
 ------------
 
 ## **Reliques**
@@ -236,10 +261,27 @@ Ouvrir des reliques vous donnera :
 - donne des schémas de forma qui doivent être craftés toutes les 24h, permettra de booster votre matériel : essentiel
 - donne des plans d'objets "prime" plus puissants et rares
     - gardez ceux qui vous intéressent
-    - vendez votre surplus, de préférence en lot (exemple : les 4 pièces d'une frame)
+    - surplus
+        - le convertir en ducats chez le Baro, acheter mods primes & autres
+        - le vendre pour des [Plats](#plats), de préférence en lots complets (exemple : les 4 pièces d'une frame)
 
-Votre pool maximum de vestiges du néant dépend de votre [niveau de maîtrise](#maîtrise).
+Votre pool maximum de vestiges du néant dépend de votre [niveau de maîtrise](mastery-rank.md).
 Les vestiges ne se stockent plus une fois atteint votre maximum, pensez à dépenser vos vestiges (clés du néant, raffinage de relique) avant d'arriver au maximum pour ne rien perdre.
+
+??? note "Stratégie ouverture de reliques"
+
+    - faire une frame de rush relique (Gauss, Titania + helmint gauss, Volt ou autre)
+    - utiliser [AlecaFrame](https://alecaframe.com/) si tu es sur PC pour mieux comprendre les valeurs des drops de reliques et gérer tes ventes
+    - favoriser les runs rapides (capture, exter) et le néant (bonus drop relique) : **Hepit, Ukko, Oxomoco, Teshub**
+    - drop relique rapide :
+        - Lith : Hepit dans le Néant
+        - Meso / Neo : Ukko dans le Néant
+        - Axi : Apollo sur Lua
+    - trouver des groupes relique :
+        -  le discord Burner ([cf contenu/Discord](#discord))
+        -  le canal public pour ouvrir des reliques en groupe (jeu en anglais, serveur EU ou amérique)
+    - penser à ne jamais être capé en traces du néant (monter en rad / flawless un stock en continu), sinon les drops de nouvelles traces/réactifs seront perdus
+
 
 ### Sources de reliques
 - **Sources communes :**
@@ -282,7 +324,7 @@ Certaines reliques sont plus intéressantes que d'autres, un mix entre la raret�
 
 - ??? note "2 sources de reliques vaultées"
     - **posséder une vieille relique** drop lorsqu'une frame/arme était accessible dans le passé
-    - **dépenser de l'[Aya](https://wiki.warframe.com/w/Aya)** pour acheter dans la boutique de [Résurgence Prime]() :
+    - **dépenser de l'[Aya](https://wiki.warframe.com/w/Aya)** pour acheter dans la boutique de [Résurgence Prime](https://wiki.warframe.com/w/Prime_Resurgence) :
         - accès rapide boutique Aya : orbiteur > market > menu déroulant en haut à gauche > avant-dernière option "Résurgence Prime", trier par reliques
         - gagner de l'Aya : 
             - plus ou moins mêmes sources que les [reliques](#sources-de-reliques)
@@ -308,13 +350,53 @@ Certaines reliques sont plus intéressantes que d'autres, un mix entre la raret�
             - **L [Relic Axi V8]** ou **LF [Relic Axi V8]** : veut dire **L** looking for group, joueur seul cherchant un groupe. Parfois on peut être contacté pour créer un groupe quand on envoie ce genre de message
             - pensez à garder le menu ouvert (echap) pour garder un oeil en haut à gauche sur les reliques équipées et être sûr que tous les jours ont la bonne relique (et intacte/radiante pour tous selon), sinon refaites un groupe 
 
+---------------
+
+## **Réputation syndicats**
+
+-  acheter un [**parallax**](https://warframe.market/items/parallax_set) (pas cher, très rentable) pour pouvoir "scanner" des bouts de carte et gagner facilement des statues ayatan et des medaillons de reputation
+-  [Fortuna](https://www.youtube.com/watch?v=_xkKO-4VqCI) / Cetus : helminth Equinox (sleep) ou Equinox (pref Titania) dans les bons spots (cf lien pour Fortuna, chercher Kavats la nuit pour Cetus)
+-  Zariman / Sanctum Anatomica (Deimos) : 
+    - surveiller mise à prix/bounties, 
+    - favoriser bounties rang max (4 ou 5) rapides (exter + condition secondaire simple)
+    - farmer à l'avance possible avec Zariman (uniquement gain de plumes). Utiliser le parallax (cf ci-dessus)
+
+
+---------------
+
+## **Alertes**
+
+- [incursion SP](https://wiki.warframe.com/w/The_Steel_Path#Incursions) : dailies steelpath, donnent des essence d'acier bonus + plus de chances d'avoir d'autres joueurs avec vous. Permet d'acheter des [adaptateurs d'arcane chez Teshin](https://wiki.warframe.com/w/The_Steel_Path#Teshin's_Steel_Path_Honors_shop_-_Evergreen_Items)
+
+---------------
+
+## **Autres farms**
+Checker [la catégorie contenu](content.md) et préparer des builds pour :
+
+- farm Défense
+- farm Arbitrage
+
+
+---------------
 
 
 ## **Plats**
 
-Sert surtout pour les emplacements au début du jeu, le reste viendra plus tard (cosmétiques, trade)
-Le jeu vous offre quelques plats à la création de votre compte, à dépenser dans la boutique : il faut les dépenser dans des emplacements en priorité.
-Les plats viendront d'échanges avec d'autres joueurs, la quantité d'échanges par jours est égale à votre [rang de maîtrise]().
+Principe de base = choper des objets/mods/reliques rares le plus rapidement possible. 
+Avoir un booster doubleur de ressources aide pour certaines farm, comme l'ouverture de reliques ou le farm de plantes pour les apothiques.
+
+!!! note "Pour les débutants"
+
+    Sert surtout pour les emplacements au début du jeu, le reste viendra plus tard (cosmétiques, trade)
+    Le jeu vous offre quelques plats à la création de votre compte, à dépenser dans la boutique : il faut les dépenser dans des emplacements en priorité.
+    Les plats viendront d'échanges avec d'autres joueurs, la quantité d'échanges par jours est égale à votre [rang de maîtrise](mastery-rank.md).
+
+!!! note "Trouver / identifier une méthode de farm"
+
+    - trouver des objets se vendant cher sur le [warframe.market](https://www.youtube.com/watch?v=-voGeqWi_BU&pp=ygUPd2FyZnJhbWUgbWFya2V0) ou sur les chats d'échange ingame anglophones (beaucoup plus de monde)
+    - trouver des méthodes pour récupérer ces objets rentables de manière efficace / rapide / qui vous plait (favoriser les farms croisés, ex : choper des plantes pour apothique en ouvrant des reliques en public)
+    - consulter les listes communautaires [1](https://www.youtube.com/results?search_query=warframe%20plat), [2](https://www.youtube.com/watch?v=6flivfmd-JU), [3](https://www.youtube.com/watch?v=Pikxp0npJSM), [4](https://www.youtube.com/watch?v=Tgw8swKlC3s), [5](https://www.youtube.com/watch?v=5ryAfjOxp7E)
+
 
 Lieux d'échanges :
 
@@ -330,9 +412,12 @@ Lieux d'échanges :
 Les échanges finaux après contact se feront de préférence dans un dojo à un pad d'échanges. En dernier recours vous pouvez passer par le bazar de Maroo et utiliser l'emote d'échange.
 
 
-Farmer des objets se vendant pour des plats :
+Quelques méthodes / sources, pour le reste checker [Contenu](content.md) :
 
 - ouvrir des [reliques](#reliques)
+    - fissure lith : Echo de Bifrost
+    - fissure requiem : [Pago Spy Kuva](https://www.youtube.com/watch?app=desktop&v=eKv-KUJmtG8)
+    - fissure Axi/Neo : capture/exter dans le Néant (Hepit, Ukko, Oxomoco, Teshub)
 - ??? note "mods apothiques"
     - faire la [quête de Titania](https://wiki.warframe.com/w/The_Silver_Grove) pour obtenir les blueprints d'apothiques
     - farmer les plantes qui vous intéressent (voir [ingrédients apothiques](https://wiki.warframe.com/w/Apothic))
@@ -357,5 +442,14 @@ Farmer des objets se vendant pour des plats :
         - les plans des clés se trouvent dans les dojo : rejoindre un clan et aller dans le labo orokin
         - possible de faire les runs en solo, de préférence avec une frame rapide (titania/nezha)
         - conseillé de faire les runs en groupe : réduit la charge des clés et accélère les runs pour trouver les portes
+- farm Aya Cetus (groupe) ou Deimos (Brute Force rang max solo ou à 2
+- farm [apothiques](https://www.youtube.com/results?search_query=apothic%20warframe) (mod Growing Power & autres)
+- farm [Captain Vor](https://www.youtube.com/watch?v=6DH_xGhMAfg)
+- farm endurance Steel Path :
+        -  Cascade + booster mod si possible (+ drops arcanes)
+        -  Défense
+        -  Perturbation/Disruption (Kappa)
+        -  [Arbitrage](https://www.youtube.com/watch?v=xegoFob-KhI&pp=ygUNd2FyZnJhbWUgcGxhdNIHCQnHCQGHKiGM7w%3D%3D)
+        -  ...
 - etc...
 

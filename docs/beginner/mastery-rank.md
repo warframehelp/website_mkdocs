@@ -9,7 +9,7 @@
 - fabriquez le plus d'armes et de warframes possibles pour monter en Maîtrise, vous pourrez jeter les plus facile à avoir
 - ne jetez pas directement vos frames non-prime, farmez d'abord l'[helminth](https://wiki.warframe.com/w/Helminth_Segment) sur [Deimos](https://wiki.warframe.com/w/Son), vous aurez besoin de lui donner vos frames non-prime
 - vous pouvez construire un objet à l'avance et le récupérer dans la fonderie bien plus tard
-- consultez [Farm](#farm) pour les ressources et l'exp nécessaire pour vos nouvelles frames & armes
+- consultez [Farm](farm.md) pour les ressources et l'exp nécessaire pour vos nouvelles frames & armes
 
 Débloque principalement :
 
@@ -37,4 +37,4 @@ Le nerf de la guerre. Plein de sources d'obtention, toujours avoir des objets en
 - _dojo_ : rejoindre un clan donne accès à différents labos et énormément d'armes et quelques warframes. Pensez à faire des [Incursions]() pour obtenir les ressources rares pour certaines armes.
 - _boss_ : tous les boss dropent des plans de frame voire d'armes, pensez à les faire plusieurs fois pour obtenir tous les plans nécessaires
 - _réputations_ : les [syndicats]() ont des réputations qui vous donneront accès à des armes et pièces
-- [_open-worlds_](#open-worlds) : syndicats spéciaux demandant de faire des [mise-à-prix / bounties]() dans des mondes ouverts, les drops des bounties et les reputations offrent plein de plans d'armes et de frames
+- [_open-worlds_](starchart.md/#open-worlds) : syndicats spéciaux demandant de faire des [mise-à-prix / bounties]() dans des mondes ouverts, les drops des bounties et les reputations offrent plein de plans d'armes et de frames

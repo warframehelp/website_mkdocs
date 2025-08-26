@@ -88,7 +88,7 @@ Moins polyvalents que les Essentiels, ils peuvent compléter un build ou remplir
 !!! note "Kavat Smeeta : ne fournit PLUS DE BUFF RESSOURCES"
     Cela a été exporté et généralisé sur des mods [Récupérateur](https://wiki.warframe.com/w/Category:Retriever_Mods) pour tous les compagnons animaux.
 
-- **[Nautilus Prime]([https://wiki.warframe.com/w/Nautilus](https://wiki.warframe.com/w/Nautilus/Prime))** : **groupage auto** des ennemis avec [Cordon](https://wiki.warframe.com/w/Cordon), donne accès à l'arme de sentinelle [Verglas Prime](https://wiki.warframe.com/w/Verglas_Prime) très forte en viral/feu
+- **[Nautilus Prime](https://wiki.warframe.com/w/Nautilus/Prime)** : **groupage auto** des ennemis avec [Cordon](https://wiki.warframe.com/w/Cordon), donne accès à l'arme de sentinelle [Verglas Prime](https://wiki.warframe.com/w/Verglas_Prime) très forte en viral/feu
 - **[Kavat Smeeta](https://wiki.warframe.com/w/Smeeta_Kavat)** : buffs aléatoires via [Charm](https://wiki.warframe.com/w/Charm). Essentiellement utilisé pour le **buff 300% affinité/XP**. 
 - [**Hounds**](https://wiki.warframe.com/w/Hound_(Companion)) de liche Tenet : Grosse capacité de **DPS/Nuke AoE** + mods utilitaires de niche + accès mods robotiques ([Guardian](https://wiki.warframe.com/w/Guardian))
 - [Kubrow Huras](https://wiki.warframe.com/w/Huras_Kubrow) : **invisibilité** partielle ([Stalk](https://wiki.warframe.com/w/Stalk) + DPS (stat-stick Paris Prime Incarnon + [Hunter Synergy](https://wiki.warframe.com/w/Hunter_Synergy) + [Mecha Overdrive](https://wiki.warframe.com/w/Mecha_Overdrive) + griffes slash/feu crit)

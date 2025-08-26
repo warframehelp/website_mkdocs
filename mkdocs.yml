@@ -13,7 +13,8 @@ nav:
     - Quêtes: beginner/quests.md
     - Missions: beginner/missions.md
     - Rangs de Maîtrise: beginner/mastery-rank.md
-    - Farm: beginner/farm.md
+    - Réglages: beginner/settings.md
+    - Autres: beginner/misc.md
   - Steelpath: 
     - steelpath/index.md
     - Warframes: steelpath/warframes.md
@@ -22,12 +23,12 @@ nav:
     - Armor-Strip: steelpath/armorstrip.md
     - Acolytes: steelpath/acolytes.md
     - Opérateur: steelpath/operator.md
-    - Farm: steelpath/farm.md
     - Autres: steelpath/misc.md
-  - Mods: mods.md
   - Checklist hebdomadaire : weekly-checklist.md
+  - Farm: farm.md
+  - Mods: mods.md
   - Références: content.md
-  - About: about.md
+  - À propos: about.md
 
 theme:
   name: material

@@ -133,12 +133,12 @@ On peut s'en protéger de différentes manières via des [immunités](https://wi
 !["Huge DPS Increase"](../assets/steelpath/PSF.gif){ width="150" align=right }
 
 - pas obligatoire, fortement **recommandé**. En steel path il y a + d'eximus et une plus grande densité de mobs : + de contrôles dangereux. Etre immunisé permet d'éviter de mourir pendant qu'un mob te fait tomber sans pouvoir réagir
-- avoir une frame immunisée via compétences ou [Overguard]([url](https://wiki.warframe.com/w/Overguard)) (cf [warframes](#warframes))
+- avoir une frame immunisée via compétences ou [Overguard](https://wiki.warframe.com/w/Overguard) (cf [warframes](#warframes))
 - utiliser [Primed Sure Footed](https://wiki.warframe.com/w/Primed_Sure_Footed) ou [Handspring](https://wiki.warframe.com/w/Handspring) pour les contrôles
 - éviter [Sure Footed (non-prime)](https://wiki.warframe.com/w/Sure_Footed)
   - si PSF impossible, préférer [Handspring](https://wiki.warframe.com/w/Handspring), ne prend qu'un seul mod
   - [Sure Footed (non-prime)](https://wiki.warframe.com/w/Sure_Footed) + [Fortitude](https://wiki.warframe.com/w/Fortitude) possible pour 100% immunité mais mange un emplacement et "cassera" vos builds, rarement envisageable (sauf si survie déjà basée sur regen shield passive)
-- [Negate](https://wiki.warframe.com/w/Negate) de [Wyrm](https://wiki.warframe.com/w/Wyrm) en combo avec [Manifold Bond](https://wiki.warframe.com/w/Manifold_Bond) pour réduire le cooldown. Nécessite d'être très à l'aise en DPS et d'arriver à maintenir en vie votre compagnon / le faire revenir rapidement ([Momentous Bond](https://wiki.warframe.com/w/Momentous_Bond) + [Primed Regen](https://wiki.warframe.com/w/Primed_Regen) et [autres](wiki.warframe.com/w/Death#Companions)) 
+- [Negate](https://wiki.warframe.com/w/Negate) de [Wyrm](https://wiki.warframe.com/w/Wyrm) en combo avec [Manifold Bond](https://wiki.warframe.com/w/Manifold_Bond) pour réduire le cooldown. Nécessite d'être très à l'aise en DPS et d'arriver à maintenir en vie votre compagnon / le faire revenir rapidement ([Momentous Bond](https://wiki.warframe.com/w/Momentous_Bond) + [Primed Regen](https://wiki.warframe.com/w/Primed_Regen) et [autres](https://wiki.warframe.com/w/Death#Companions)) 
 
 
 ### MODS AUGMENT
@@ -210,7 +210,7 @@ Aussi appellés [mods de syndicat](https://wiki.warframe.com/w/Warframe_Augment_
 
 ## MOBILITÉ
 
-Les [manoeuvres](https://wiki.warframe.com/w/Maneuvers) sont la base du mouvement de warframe : bullet-jumps, roulades, glissades...
+Les [manoeuvres](https://wiki.warframe.com/w/Maneuvers) sont la base du mouvement de warframe : bullet-jumps, roulades, glissades... [vidéo de référence](https://www.youtube.com/watch?v=WoKVEisXJhE)
 
 Partie fondamentale du jeu que ce soit pour : 
 

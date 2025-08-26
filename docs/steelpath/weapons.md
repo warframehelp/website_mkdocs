@@ -238,7 +238,7 @@ Voir aussi l'interaction avec [les mods CO / GunCO](https://wiki.warframe.com/w/
   - armes secondaires : Epitaph, Kompressa (Prime), (Coda) Tysis...
   - primaires : Cedo Prime, Bubonico...
   - compagnon :
-      - Diriga (voir [Compagnons](/steelpath/pets/))
+      - Diriga (voir [Compagnons](pets.md))
       - [Sentinelle](https://wiki.warframe.com/w/Sentinel) / [Moa](https://wiki.warframe.com/w/MOA_(Companion)) + [Tazicor](https://wiki.warframe.com/w/Tazicor) (mini Nukor) + [Duplex Bond](https://wiki.warframe.com/w/Duplex_Bond)
 
 ### **Primers : Stats recherchées**

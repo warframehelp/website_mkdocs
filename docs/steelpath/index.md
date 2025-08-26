@@ -8,7 +8,7 @@
 
     Choisir une frame
 
-    [:octicons-arrow-right-24: Frames](/steelpath/warframes/)
+    [:octicons-arrow-right-24: Frames](warframes.md)
 
 -   :fontawesome-brands-markdown:{ .lg .middle } __Armes conseillées__
 
@@ -16,7 +16,7 @@
 
     Choisir une arme
 
-    [:octicons-arrow-right-24: Armes](/steelpath/weapons/)
+    [:octicons-arrow-right-24: Armes](weapons.md)
 
 -   :material-format-font:{ .lg .middle } __Compagnons essentiels__
 
@@ -24,7 +24,7 @@
 
     Choisir un compagnon
 
-    [:octicons-arrow-right-24: Compagnons](/steelpath/pets/)
+    [:octicons-arrow-right-24: Compagnons](pets.md)
 
 -   :material-scale-balance:{ .lg .middle } __Mods : base__
 
@@ -32,7 +32,7 @@
 
     Choper / monter les mods prioritaires
 
-    [:octicons-arrow-right-24: Mods](/mods/)
+    [:octicons-arrow-right-24: Mods](../mods.md)
 
 -   :material-scale-balance:{ .lg .middle } __Youtube__
 
@@ -40,7 +40,8 @@
 
     Suivre un build récent dans les chaînes du haut de la liste
 
-    [:octicons-arrow-right-24: Youtube](/content/#vidéos)
+    [:octicons-arrow-right-24: Youtube](../content.md/#vidéos)
+
 
 </div>
 
@@ -49,17 +50,7 @@
 
 Les infos présentées ici n'ont pas vocation à être exhaustives : il peut manquer des frames, des armes, etc. Ce n'est pas grave et vous obtiendrez surtout les outils pour ajuster vos connaissances à toutes les situations de jeu Steel Path.
 
-Utilisez les concepts et noms comme des mots-clés pour vos [recherches](#comment-chercher) sur le [wiki.warframe.com](https://wiki.warframe.com) ou Youtube chez vos créateurs de [contenu](#contenu) préférés.
-
-
-## Objectifs
-Deux éléments principaux pour se débrouiller en Steel Path : **survivre** et arriver à **vaincre les ennemis**.
-
-Il faudra : 
-- une [frame](#warframes) et une [arme](#armes) solides et accessibles
-- un [modding](#mods--base) adapté
-- utiliser des sources de [contenu](#contenu) carrées pour les builds.
-- bien intégrer la [mobilité](https://www.youtube.com/watch?v=WoKVEisXJhE) comme [outil](https://wiki.warframe.com/w/Maneuvers) de survie supplémentaire.
+Utilisez les concepts et noms comme des mots-clés pour vos [recherches](../content.md/#comment-chercher) sur le [wiki.warframe.com](https://wiki.warframe.com) ou Youtube chez vos créateurs de [contenu](../content.md/#vidéos) préférés.
 
 
 
@@ -107,17 +98,17 @@ Sources principales :
 Les mods sont essentiels, en variété (différents mods) et qualité (montés à fond) :
 
 
-- **MONTER TES MODS** : farmer du **crédit** et de l'**endo** cf [section Farm](#farm)
-- [farmer](#farm) les [**mods corrompus**](https://wiki.warframe.com/w/Corrupted_Mods) (et [apothiques](https://www.youtube.com/results?search_query=apothic%20farm%20warframe))
-- faire de l'[**arbitrage**](#Docs) (alerte + boutique relai chez les arbitres d'hexis) pour avoir des [mods galvanisés](https://wiki.warframe.com/w/Galvanized_Mods).
+- **MONTER TES MODS** : farmer du **crédit** et de l'**endo** cf [section Farm](farm.md)
+- [farmer](farm.md) les [**mods corrompus**](https://wiki.warframe.com/w/Corrupted_Mods) (et [apothiques](https://www.youtube.com/results?search_query=apothic%20farm%20warframe))
+- faire de l'[**arbitrage**](../content.md/#docs) (alerte + boutique relai chez les arbitres d'hexis) pour avoir des [mods galvanisés](https://wiki.warframe.com/w/Galvanized_Mods).
 - choper les [mods de compagnon](https://wiki.warframe.com/w/Companion_Mods) : [mods de bond](https://wiki.warframe.com/w/Bond_Mods), [mods de griffe](https://wiki.warframe.com/w/Beast_Claws_Mods), mods [récupérateur](https://wiki.warframe.com/w/Category:Retriever_Mods), [radars](https://wiki.warframe.com/w/Primed_Animal_Instinct), [Synth Deconstruct](https://wiki.warframe.com/w/Synth_Deconstruct), [Guardian](https://wiki.warframe.com/w/Guardian)...
 - récupérer les mods de l'[Augure](https://wiki.warframe.com/w/Category:Augur_Mods) et du [Chasseur](https://wiki.warframe.com/w/Hunter_Set)
 
-Voir pour plus d'infos : [Mods : survivre](#mods-arme--survivre) et [Mods : dégats](#mods-arme--dégats).
+Voir pour plus d'infos : [Mods : survivre](weapons.md/#mods-arme-survivre) et [Mods : dégats](weapons.md/#mods-arme-dégats).
 
 ## Loadouts basiques
 
-[Compagnon](#compagnons) parmi ceux conseillés, une [arme](#armes) principale pour les dégats et les autres armes pour aider votre frame ou votre arme principale : stat-stick (Argonak pour dague, Praedos pour vitesse...), [primers](#priming), voire une arme anti-boss (acolyte/demolyste/autre) et le reste pour les hordes de "trash-mobs".
+[Compagnon](pets.md) parmi ceux conseillés, une [arme](weapons.md) principale pour les dégats et les autres armes pour aider votre frame ou votre arme principale : stat-stick (Argonak pour dague, Praedos pour vitesse...), [primers](weapons.md/#priming), voire une arme anti-boss (acolyte/demolyste/autre) et le reste pour les hordes de "trash-mobs".
 
 
 - Rhino + Ignis Wraith viral/feu ou Tenet Cycron Feu

@@ -58,7 +58,7 @@ Contenu fomo / à faire toutes les semaines si possible :
     - Chasse d'Archonte : **éclats d'archonte, parfois Tau**
 
 - __Duviri__ :
-    - [Circuit steelpath](https://wiki.warframe.com/w/The_Circuit#The_Steel_Path_Circuit) : **prioritaire**, choisir les **adaptateurs arme incarnon** entre ce qui est fort/meta et ce qui vous intéresse. Voir la section [Incarnons](#incarnons) ou les recaps hebdo de [GazTTV](https://www.youtube.com/@GazTTV) (fait une revue des incarnons hebdos avec des conseils pour le choix)
+    - [Circuit steelpath](https://wiki.warframe.com/w/The_Circuit#The_Steel_Path_Circuit) : **prioritaire**, choisir les **adaptateurs arme incarnon** entre ce qui est fort/meta et ce qui vous intéresse. Voir la section [Incarnons](steelpath/weapons.md#incarnons) ou les recaps hebdo de [GazTTV](https://www.youtube.com/@GazTTV) (fait une revue des incarnons hebdos avec des conseils pour le choix)
     - ??? note "Armes incarnon prioritaires "
         - semaine 1 : Lato, Paris
         - semaine 2 : Boar, Angstrum

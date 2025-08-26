@@ -8,7 +8,7 @@
 
     Objectif principal : à avancer
 
-    [:octicons-arrow-right-24: Carte Céleste](/beginner/starchart/)
+    [:octicons-arrow-right-24: Carte Céleste](starchart.md)
 
 -   :fontawesome-brands-markdown:{ .lg .middle } __Quêtes principales__
 
@@ -16,7 +16,7 @@
 
     A avancer en parallèle
 
-    [:octicons-arrow-right-24: Quêtes](/beginner/quests/)
+    [:octicons-arrow-right-24: Quêtes](quests.md)
 
 -   :material-format-font:{ .lg .middle } __Warframes__
 
@@ -24,7 +24,7 @@
 
     Choisir vos premières frames
 
-    [:octicons-arrow-right-24: Warframes](/beginner/warframes/)
+    [:octicons-arrow-right-24: Warframes](warframes.md)
 
 -   :material-scale-balance:{ .lg .middle } __Armes__
 
@@ -32,7 +32,7 @@
 
     Choisir vos premières armes
 
-    [:octicons-arrow-right-24: Armes](/beginner/weapons/)
+    [:octicons-arrow-right-24: Armes](weapons.md)
 
 -   :material-scale-balance:{ .lg .middle } __Rangs de Maîtrise__
 
@@ -40,7 +40,7 @@
 
     A monter en parallèle
 
-    [:octicons-arrow-right-24: Maîtrise](/beginner/mastery-rank/)
+    [:octicons-arrow-right-24: Maîtrise](mastery-rank.md)
 
 -   :material-scale-balance:{ .lg .middle } __Mods__
 
@@ -48,7 +48,7 @@
 
     A obtenir et commencer à monter
 
-    [:octicons-arrow-right-24: Mods](/beginner/mods/)
+    [:octicons-arrow-right-24: Mods](mods.md)
 
 </div>
 

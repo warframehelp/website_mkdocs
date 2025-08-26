@@ -32,7 +32,7 @@ Vous lisez une ligne sur le modding, vous pouvez chercher "[warframe how to mod 
     - [Guide Profit Taker](https://profit-taker.com/)
     - Guides Arbitrage : [Warframe Arbitration](https://guide.faby.dev/Arbitrations/) / [Warframe Goons](https://docs.google.com/document/d/14yAA4rv82MVjDJKasm70oL_peegCHPQioDeMGdvf4DM/edit?tab=t.0#heading=h.1kzx09iw9f0a)
     - [Guide la défense optimisée](https://docs.google.com/document/d/1rslhIJVmW5YO0TJm1MTtrryDgoeeU2L-CE3MomM6Rwk/edit?tab=t.0)
-    - [Galvanized GunCO on Projectiles - 32.2.10 edition](https://docs.google.com/spreadsheets/d/1ryemX4Y2vWy9LjuJ355bWVNuBhzLaHTTFqPeTNto9RA/edit?gid=221509335#gid=221509335) (cf [priming](#priming))
+    - [Galvanized GunCO on Projectiles - 32.2.10 edition](https://docs.google.com/spreadsheets/d/1ryemX4Y2vWy9LjuJ355bWVNuBhzLaHTTFqPeTNto9RA/edit?gid=221509335#gid=221509335) (cf [priming](steelpath/weapons.md#priming))
 
 ## Discord
 
@@ -58,14 +58,14 @@ Vous lisez une ligne sur le modding, vous pouvez chercher "[warframe how to mod 
 
 ## Youtube
 
-### A+ _ Solides, prioritaires :
+### A+ _ Solides, prioritaires
 - débutants :
     - [iFlynn](https://www.youtube.com/@xiFlynn)
 - avancés :
     - [Unified Codex](https://www.youtube.com/@Unified-Codex)
     - [NoSympathyCA](https://www.youtube.com/channel/UCM7zlfo3IOQ3agy4IR_Ezag)
 
-### A _ Solides, généralistes :
+### A _ Solides, généralistes
 - [Salt_Prime](https://www.youtube.com/@Salt_Prime)
 - [GuapFrame](https://www.youtube.com/@GuapFrame)
 - [GazTTV](https://www.youtube.com/@GazTTV)
@@ -79,13 +79,13 @@ Vous lisez une ligne sur le modding, vous pouvez chercher "[warframe how to mod 
 - [TheKengineer](https://www.youtube.com/@TheKengineer)
 - [Rainollon](https://www.youtube.com/@Rainollon/)
 
-### S _ Pointu, bonne réalisation:
+### S _ Pointu, bonne réalisation
 - [B L A N K](https://www.youtube.com/@7BLANK)
 - [TheDemonPrince](https://www.youtube.com/@The_DemonPrince/)
 - [NovaUmbral](https://www.youtube.com/@NovaUmbral)
 - [Sci-Fi Freak](https://www.youtube.com/@Sci-Fi_Freak_YT)
 
-### S+ _ Hyper pointus:
+### S+ _ Hyper pointus
 - [Ninjase](https://www.youtube.com/@ninjase500/videos)
 - [Dystopia](https://www.youtube.com/@heatinherit/videos)
 - [Moug](https://www.youtube.com/@WispGraxx/videos)
@@ -97,11 +97,11 @@ Vous lisez une ligne sur le modding, vous pouvez chercher "[warframe how to mod 
 - [Marvelous Marvin](https://www.youtube.com/@marvelousmarvin5961/videos)
 - [Triburos](https://www.youtube.com/@TriburosOnline/videos)
 
-### ? _ "Meme" tier:
+### ? _ "Meme" tier
 - [MrWarframeGuy](https://www.youtube.com/@MrWarframeGuy/videos)
 - [Akabayashi](https://www.youtube.com/@Akabayashi/videos)
 
-### B _ OK tier:
+### B _ Notables
 - [KnightmareFrame](https://www.youtube.com/@KnightmareFrame/videos)
 - [IgnusT](https://www.youtube.com/@IgnusTer/videos)
 - [WarframeFlo](https://www.youtube.com/@WarframeFlo/videos)

@@ -60,7 +60,7 @@ Certaines frames ont des capacités améliorant les drops de Ressources. Dans un
 
 - [Nekros](https://wiki.warframe.com/w/Nekros) : prioritaire, utile solo et en groupe, le plus simple à obtenir. Frame "meta" pour boost le farm ressource (farm Deimos, [Magnacidium](https://wiki.warframe.com/w/Magnacidium)). Utiliser le mod augment [Despoil](https://wiki.warframe.com/w/Despoil).
 - [Khora](https://wiki.warframe.com/w/Khora) : 2nde priorité, cumule ses bonus de drop avec Nekros mais plus dure à obtenir. L'autre frame "meta" pour boost le farm ressource (préférer une rotation [Circuit Duviri](https://wiki.warframe.com/w/The_Circuit#Normal_Circuit) normal ou obtenir la Prime). Utiliser le mod augment [Pilfering Strangledome](https://wiki.warframe.com/w/Pilfering_Strangledome)
-- ??? note "autres / facultatives"
+- !!! note "autres / facultatives"
     - [Nova](https://wiki.warframe.com/w/Nova) : bonus pour le farm en groupe. N'augmente pas les loots directements mais peut augmenter la vitesse de course des ennemis, permettant d'accélérer le farm en Survie / Défense : en complément de Nekros+Khora
     - [Hydroid](https://wiki.warframe.com/w/Hydroid) : avec l'augment [Pilfering Swarm](https://wiki.warframe.com/w/Pilfering_Swarm), peu utilisé : en compétition avec le bonus drop de Khora qui a un % inférieur MAIS touche beaucoup plus d'ennemis à la fois, la rendant supérieure. Bien en dépannage.
     - [Ivara](https://wiki.warframe.com/w/Ivara) : l'invisibilité permet de "faire les poches" : techniquement compatible avec Nekros+Khora, mais trop lent pour être viable.
