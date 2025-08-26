@@ -39,7 +39,10 @@ Ils complètent vos builds via différents bonus :
 ## **Compagnons : Essentiels**
 La base, ceux à build/utiliser en priorité. Des compagnons AoE avec des capacités de survie qui aident énormément. Un Aoe + [Synth Deconstruct](https://wiki.warframe.com/w/Synth_Deconstruct) permet de générer des orbes de santé, et de l'énergie si ta frame a [Equilibrium](https://wiki.warframe.com/w/Equilibrium) ou une [shard](https://wiki.warframe.com/w/Archon_Shard) violette.
 
+
 ### **Panzer Vulpaphyla** 
+![Panzer Vulpaphyla](../assets/steelpath/PanzerVulpaphyla.png){ width="120" align=right }
+
 !!! note "Panzer : avantages"
     - envoie du viral partout ([Viral Quills](https://wiki.warframe.com/w/Viral_Quills) / [Panzer Devolution](https://wiki.warframe.com/w/Panzer_Devolution))
     - empêche parfois de mourir ([Martyr Simbiosis](https://wiki.warframe.com/w/Martyr_Symbiosis))
@@ -49,6 +52,8 @@ La base, ceux à build/utiliser en priorité. Des compagnons AoE avec des capaci
 ??? note "Panzer : build"
 
 ### **Diriga**
+![Diriga](../assets/steelpath/Diriga.webp){ width="120" align=right }
+
 !!! note "Diriga : avantages"
     - stun électrique de zone avec [Arc Coil](https://wiki.warframe.com/w/Arc_Coil)
     - peut embarquer "Guardien" pour regen tes boucliers
@@ -62,6 +67,8 @@ La base, ceux à build/utiliser en priorité. Des compagnons AoE avec des capaci
 ??? note "Diriga : build"
 
 ### **Kavat Vasca**
+![Kavat Vasca](../assets/steelpath/VascaKavat.webp){ width="120" align=right }
+
 !!! note "Vasca : avantages"
     - bonne sécurité (rez via [Transfusion](https://wiki.warframe.com/w/Transfusion))
     - très bons dégâts qui permettent de générer des orbes d'énergie via [Duplex Bond](https://wiki.warframe.com/w/Duplex_Bond)
