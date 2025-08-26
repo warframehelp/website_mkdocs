@@ -16,7 +16,7 @@
 
     Choisir une arme
 
-    [:octicons-arrow-right-24: Armes](#armes-conseillées)
+    [:octicons-arrow-right-24: Armes](/steelpath/weapons/)
 
 -   :material-format-font:{ .lg .middle } __Compagnons essentiels__
 
@@ -24,7 +24,7 @@
 
     Choisir un compagnon
 
-    [:octicons-arrow-right-24: Compagnons](#compagnons--essentiels)
+    [:octicons-arrow-right-24: Compagnons](/steelpath/pets/)
 
 -   :material-scale-balance:{ .lg .middle } __Mods : base__
 
@@ -32,7 +32,7 @@
 
     Choper / monter les mods prioritaires
 
-    [:octicons-arrow-right-24: License](#mods--base)
+    [:octicons-arrow-right-24: Mods](/mods/)
 
 -   :material-scale-balance:{ .lg .middle } __Youtube__
 
@@ -40,7 +40,7 @@
 
     Suivre un build récent dans les chaînes du haut de la liste
 
-    [:octicons-arrow-right-24: License](#youtube)
+    [:octicons-arrow-right-24: Youtube](/content/#vidéos)
 
 </div>
 

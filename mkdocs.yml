@@ -24,13 +24,14 @@ nav:
     - Opérateur: steelpath/operator.md
     - Farm: steelpath/farm.md
     - Autres: steelpath/misc.md
+  - Mods: mods.md
   - Checklist hebdomadaire : weekly-checklist.md
-  - Content: content.md
+  - Références: content.md
   - About: about.md
 
 theme:
   name: material
-  language: en
+  language: fr
   logo: assets/logo.png
   palette:
     # Dark Mode
@@ -58,13 +59,6 @@ theme:
 
 
 extra:
-  alternate:
-    - name: English
-      link: /
-      lang: en
-    - name: Français
-      link: /fr/
-      lang: fr
   analytics:
     provider: google
     property: G-F0XRGZX4LE

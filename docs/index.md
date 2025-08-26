@@ -14,9 +14,11 @@ hide:
       </p>
     </div>
     <div class="right-content" markdown="0">
-      <p class="subtitle2">Multi-lingual :
-        <a href="/fr/" class="lang-link">français</a> •
-        <a href="/en/" class="lang-link">english</a>.
+      <p class="subtitle2">Multi-lingual (soon) :
+        <s>
+        <a href="/fr/" class="lang-link" onclick="return false">français</a> •
+        <a href="/en/" class="lang-link" onclick="return false">english</a>.
+        </s>
       </p>
       <img src="assets/logo.png" alt="Logo" class="inverted-logo">
     </div>
@@ -34,7 +36,7 @@ hide:
 
     Tout pour bien débuter au jeu
 
-    [:octicons-arrow-right-24: Getting started](beginner)
+    [:octicons-arrow-right-24: Débutant](beginner)
 
 
 -   ###:fontawesome-brands-markdown:{ .lg .middle } __Steelpath__
@@ -43,16 +45,34 @@ hide:
 
     Le "hard mode" de Warframe, à portée de tous
 
-    [:octicons-arrow-right-24: Reference](steelpath/)
+    [:octicons-arrow-right-24: Steelpath](steelpath/)
+
+
+-   ###:fontawesome-brands-markdown:{ .lg .middle } __Mods__
+
+    ---
+
+    Comment trouver et choisir les mods adaptés
+
+    [:octicons-arrow-right-24: Mods essentiels](/weekly-checklist)
 
 
 -   ###:fontawesome-brands-markdown:{ .lg .middle } __Checklist Hebdo__
 
     ---
 
-    Récapitulatif du contenu hebdomadaire offrant les meilleures récompenses
+    Récapitulatif offrant les meilleures récompenses
 
-    [:octicons-arrow-right-24: Reference](/weekly-checklist)
+    [:octicons-arrow-right-24: Checklist Hebdo](/weekly-checklist)
+
+
+-   ###:fontawesome-brands-markdown:{ .lg .middle } __Références__
+
+    ---
+
+    Contenu externe : sites (wiki officiel), gdocs, youtube, twitch, discord
+
+    [:octicons-arrow-right-24: Références](/content)
 
 
 </div>
