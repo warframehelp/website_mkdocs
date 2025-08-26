@@ -2,7 +2,7 @@
 
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __Frames conseillées__
+-   :fontawesome-regular-user:{ .lg .middle } __Frames conseillées__
 
     ---
 
@@ -10,7 +10,7 @@
 
     [:octicons-arrow-right-24: Frames](warframes.md)
 
--   :fontawesome-brands-markdown:{ .lg .middle } __Armes conseillées__
+-   :material-sword:{ .lg .middle } __Armes conseillées__
 
     ---
 
@@ -18,7 +18,7 @@
 
     [:octicons-arrow-right-24: Armes](weapons.md)
 
--   :material-format-font:{ .lg .middle } __Compagnons essentiels__
+-   :material-dog:{ .lg .middle } __Compagnons essentiels__
 
     ---
 
@@ -26,15 +26,15 @@
 
     [:octicons-arrow-right-24: Compagnons](pets.md)
 
--   :material-scale-balance:{ .lg .middle } __Mods : base__
+-   :fontawesome-regular-clone:{ .lg .middle } __Mods : base__
 
     ---
 
     Choper / monter les mods prioritaires
 
-    [:octicons-arrow-right-24: Mods](../mods.md)
+    [:octicons-arrow-right-24: Mods](../mods/index.md)
 
--   :material-scale-balance:{ .lg .middle } __Acolytes__
+-   :fontawesome-regular-chess-bishop:{ .lg .middle } __Acolytes__
 
     ---
 
@@ -42,13 +42,13 @@
 
     [:octicons-arrow-right-24: Acolytes](acolytes.md)
 
--   :material-scale-balance:{ .lg .middle } __Youtube__
+-   :material-youtube:{ .lg .middle } __Youtube__
 
     ---
 
     Suivre un build récent dans les chaînes du haut de la liste
 
-    [:octicons-arrow-right-24: Youtube](../content.md/#vidéos)
+    [:octicons-arrow-right-24: Youtube](../content.md/#videos)
 
 </div>
 
@@ -57,7 +57,7 @@
 
 Les infos présentées ici n'ont pas vocation à être exhaustives : il peut manquer des frames, des armes, etc. Ce n'est pas grave et vous obtiendrez surtout les outils pour ajuster vos connaissances à toutes les situations de jeu Steel Path.
 
-Utilisez les concepts et noms comme des mots-clés pour vos [recherches](../content.md/#comment-chercher) sur le [wiki.warframe.com](https://wiki.warframe.com) ou Youtube chez vos créateurs de [contenu](../content.md/#vidéos) préférés.
+Utilisez les concepts et noms comme des mots-clés pour vos [recherches](../content.md/#comment-chercher) sur le [wiki.warframe.com](https://wiki.warframe.com) ou Youtube chez vos créateurs de [contenu](../content.md/#videos) préférés.
 
 
 
@@ -99,19 +99,6 @@ Sources principales :
 - ouvrir une relique en Steel Path donne 1 essence
 - etc...
 
-
-## Mods : base
-
-Les mods sont essentiels, en variété (différents mods) et qualité (montés à fond) :
-
-
-- **MONTER TES MODS** : farmer du **crédit** et de l'**endo** cf [section Farm](../farm.md)
-- [farmer](../farm.md) les [**mods corrompus**](https://wiki.warframe.com/w/Corrupted_Mods) (et [apothiques](https://www.youtube.com/results?search_query=apothic%20farm%20warframe))
-- faire de l'[**arbitrage**](../content.md/#docs) (alerte + boutique relai chez les arbitres d'hexis) pour avoir des [mods galvanisés](https://wiki.warframe.com/w/Galvanized_Mods).
-- choper les [mods de compagnon](https://wiki.warframe.com/w/Companion_Mods) : [mods de bond](https://wiki.warframe.com/w/Bond_Mods), [mods de griffe](https://wiki.warframe.com/w/Beast_Claws_Mods), mods [récupérateur](https://wiki.warframe.com/w/Category:Retriever_Mods), [radars](https://wiki.warframe.com/w/Primed_Animal_Instinct), [Synth Deconstruct](https://wiki.warframe.com/w/Synth_Deconstruct), [Guardian](https://wiki.warframe.com/w/Guardian)...
-- récupérer les mods de l'[Augure](https://wiki.warframe.com/w/Category:Augur_Mods) et du [Chasseur](https://wiki.warframe.com/w/Hunter_Set)
-
-Voir pour plus d'infos : [Mods : survivre](weapons.md/#mods-arme-survivre) et [Mods : dégats](weapons.md/#mods-arme-dégats).
 
 ## Loadouts basiques
 

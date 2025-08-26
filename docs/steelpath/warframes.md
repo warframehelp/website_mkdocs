@@ -50,7 +50,7 @@ Deux stratégie principales que l'on peut cumuler :
    - [stock d'énergie](https://wiki.warframe.com/w/Energy_Capacity#Increasing_Energy_Capacity) : flux, flux accru, shard archonte bleues (2-3 max)
    - **[apport d'énergie](https://wiki.warframe.com/w/Energy_Capacity#Restoring_Energy)** : 
       - **communs / meta** :
-        - drop + conversion orbes de santé : [compagnon](#compagnons) AoE + [**Synth Deconstruct**](https://wiki.warframe.com/w/Synth_Deconstruct)) + conversion santé > énergie ([**Equilibrium**](https://wiki.warframe.com/w/Equilibrium), shards [violettes](https://wiki.warframe.com/w/Archon_Shard))
+        - drop + conversion orbes de santé : [compagnon](pets.md) AoE + [**Synth Deconstruct**](https://wiki.warframe.com/w/Synth_Deconstruct)) + conversion santé > énergie ([**Equilibrium**](https://wiki.warframe.com/w/Equilibrium), shards [violettes](https://wiki.warframe.com/w/Archon_Shard))
         - [helminth](#helminth) [**Nourish**](https://wiki.warframe.com/w/Nourish), combo possible avec [Energy Nexus](https://wiki.warframe.com/w/Energy_Nexus) et/ou [Archon Stretch](https://wiki.warframe.com/w/Archon_Stretch) (proc avec [Arc Coil](https://wiki.warframe.com/w/Arc_Coil) du Diriga ou de l'elec sur les griffes de votre compagnon)
         - [**Arcane Energize**](https://wiki.warframe.com/w/Arcane_Energize) le plus cher/dur à farmer aujourd'hui mais très efficace (prioriser reroll [Vosfor](https://wiki.warframe.com/w/Vosfor), drops events ou plats... runs [Eidolon](https://www.youtube.com/watch?v=25LlzizpO3I) en dernier recours)
         - tuer un [Eximus](https://wiki.warframe.com/w/Eximus#Overview) : drop garanti d'une orbe d'énergie
@@ -59,7 +59,7 @@ Deux stratégie principales que l'on peut cumuler :
         - [archon shard jaune](https://wiki.warframe.com/w/Archon_Shard) : +50% efficacité sur les orbes d'énergie (+75% pour tauforgée)
         - Parazon : faire un finisher avec [Blood for Energy](https://wiki.warframe.com/w/Blood_For_Energy)
         - [Compétences non-helminth](https://wiki.warframe.com/w/Energy_Capacity#Abilities)
-        - [Duplex Bond](https://wiki.warframe.com/w/Duplex_Bond) + [compagnon](#compagnons) qui tape fort en mêlée
+        - [Duplex Bond](https://wiki.warframe.com/w/Duplex_Bond) + [compagnon](pets.md) qui tape fort en mêlée
         - Ecole de focus [Zenurik](https://wiki.warframe.com/w/Focus/Zenurik) [Energy Pulse](https://wiki.warframe.com/w/Focus/Zenurik#Energy_Pulse) (incompatible avec certains modes de jeu demandant Madurai)
         - Arcane [Primary Exhilarate](https://wiki.warframe.com/w/Primary_Exhilarate) sur arme principale primer (ex : Bubonico qui a de l'impact forcé + AoE)
         - Arcane [Emergence Dissipate](https://wiki.warframe.com/w/Emergence_Dissipate) pour opérateur
@@ -133,7 +133,7 @@ On peut s'en protéger de différentes manières via des [immunités](https://wi
 !["Huge DPS Increase"](../assets/steelpath/PSF.gif){ width="150" align=right }
 
 - pas obligatoire, fortement **recommandé**. En steel path il y a + d'eximus et une plus grande densité de mobs : + de contrôles dangereux. Etre immunisé permet d'éviter de mourir pendant qu'un mob te fait tomber sans pouvoir réagir
-- avoir une frame immunisée via compétences ou [Overguard](https://wiki.warframe.com/w/Overguard) (cf [warframes](#frames-conseillées))
+- avoir une frame immunisée via compétences ou [Overguard](https://wiki.warframe.com/w/Overguard) (cf [warframes](#frames-conseillees))
 - utiliser [Primed Sure Footed](https://wiki.warframe.com/w/Primed_Sure_Footed) ou [Handspring](https://wiki.warframe.com/w/Handspring) pour les contrôles
 - éviter [Sure Footed (non-prime)](https://wiki.warframe.com/w/Sure_Footed)
   - si PSF impossible, préférer [Handspring](https://wiki.warframe.com/w/Handspring), ne prend qu'un seul mod

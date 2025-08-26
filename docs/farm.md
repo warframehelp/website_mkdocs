@@ -236,7 +236,7 @@ Le booster de crédit de la boutique n'est pas nécessaire mais appréciable.
 
 ## **Endo**
 
-Sert à monter les [mods](mods.md).
+Sert à monter les [mods](mods/index.md).
 
 - **débutant** :
     - **dissoudre des mods en doublon**. Il y a même une interface pour ça, gardez une dizaine de doublons par mod au cas où avant de mieux vous y connaître sur leur valeur.

@@ -30,7 +30,7 @@ hide:
 
 <div class="grid cards narrow-cards" markdown>
 
--   ###:material-clock-fast:{ .lg .middle } __Débutant__
+-   ###:material-compass:{ .lg .middle } __Débutant__
 
     ---
 
@@ -39,7 +39,7 @@ hide:
     [:octicons-arrow-right-24: Débutant](beginner/index.md)
 
 
--   ###:fontawesome-brands-markdown:{ .lg .middle } __Steelpath__
+-   ###:fontawesome-regular-gem:{ .lg .middle } __Steelpath__
 
     ---
 
@@ -48,7 +48,7 @@ hide:
     [:octicons-arrow-right-24: Steelpath](steelpath/index.md)
 
 
--   ###:fontawesome-brands-markdown:{ .lg .middle } __Checklist Hebdo__
+-   ###:material-check:{ .lg .middle } __Checklist Hebdo__
 
     ---
 
@@ -57,7 +57,7 @@ hide:
     [:octicons-arrow-right-24: Checklist Hebdo](weekly-checklist.md)
 
 
--   ###:fontawesome-brands-markdown:{ .lg .middle } __Farm__
+-   ###:fontawesome-regular-lemon:{ .lg .middle } __Farm__
 
     ---
 
@@ -66,16 +66,16 @@ hide:
     [:octicons-arrow-right-24: Farming](farm.md)
 
 
--   ###:fontawesome-brands-markdown:{ .lg .middle } __Mods__
+-   ###:fontawesome-regular-clone:{ .lg .middle } __Mods__
 
     ---
 
     Comment trouver et choisir les mods adaptés
 
-    [:octicons-arrow-right-24: Mods essentiels](mods.md)
+    [:octicons-arrow-right-24: Mods essentiels](mods/index.md)
 
 
--   ###:fontawesome-brands-markdown:{ .lg .middle } __Références__
+-   ###:fontawesome-regular-address-book:{ .lg .middle } __Références__
 
     ---
 

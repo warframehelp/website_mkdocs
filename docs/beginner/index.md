@@ -2,7 +2,7 @@
 
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __Carte Céleste__
+-   :material-compass:{ .lg .middle } __Carte Céleste__
 
     ---
 
@@ -10,7 +10,7 @@
 
     [:octicons-arrow-right-24: Carte Céleste](starchart.md)
 
--   :fontawesome-brands-markdown:{ .lg .middle } __Quêtes principales__
+-   :fontawesome-regular-message:{ .lg .middle } __Quêtes principales__
 
     ---
 
@@ -18,7 +18,7 @@
 
     [:octicons-arrow-right-24: Quêtes](quests.md)
 
--   :material-format-font:{ .lg .middle } __Warframes__
+-   :fontawesome-regular-user:{ .lg .middle } __Warframes__
 
     ---
 
@@ -26,7 +26,7 @@
 
     [:octicons-arrow-right-24: Warframes](warframes.md)
 
--   :material-scale-balance:{ .lg .middle } __Armes__
+-   :material-sword:{ .lg .middle } __Armes__
 
     ---
 
@@ -34,7 +34,7 @@
 
     [:octicons-arrow-right-24: Armes](weapons.md)
 
--   :material-scale-balance:{ .lg .middle } __Rangs de Maîtrise__
+-   :material-star:{ .lg .middle } __Rangs de Maîtrise__
 
     ---
 
@@ -42,13 +42,13 @@
 
     [:octicons-arrow-right-24: Maîtrise](mastery-rank.md)
 
--   :material-scale-balance:{ .lg .middle } __Mods__
+-   :fontawesome-regular-clone:{ .lg .middle } __Mods__
 
     ---
 
     A obtenir et commencer à monter
 
-    [:octicons-arrow-right-24: Mods](mods.md)
+    [:octicons-arrow-right-24: Mods](../mods/index.md)
 
 </div>
 

@@ -23,9 +23,14 @@ nav:
     - Acolytes: steelpath/acolytes.md
     - Opérateur: steelpath/operator.md
     - Autres: steelpath/misc.md
+  - Mods: 
+    - mods/index.md
+    - Warframes: mods/warframes.md
+    - Armes: mods/weapons.md
+    - Compagnons: mods/pets.md
+    - Steelpath: mods/steelpath.md
   - Checklist hebdomadaire : weekly-checklist.md
   - Farm: farm.md
-  - Mods: mods.md
   - Références: content.md
   - À propos: about.md
 

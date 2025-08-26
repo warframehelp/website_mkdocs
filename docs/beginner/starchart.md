@@ -29,7 +29,7 @@ Quand vous voulez bien comprendre tout ce qu'il se passe et avancer à votre ryt
 ## Jonctions
 De vrais coffres aux trésors pour le débutant, vous donnent des mods, des blueprints, des quêtes elles-mêmes débloquant du contenu...
 
-Tips pour faciliter les combats par starter (penser à monter vos [mods](mods.md)) :
+Tips pour faciliter les combats par starter (penser à monter vos [mods](../mods/index.md)) :
 
 - __Excalibur__ : [Radial Blind](https://wiki.warframe.com/w/Radial_Blind) (2nde compétence) ouvre les ennemis aux finishers, permet de trivialiser complètement le combat
 - __Volt__ : [Electric Shield](https://wiki.warframe.com/w/Electric_Shield) (3) pour tirer en sécurité à distance ou [Speed](https://wiki.warframe.com/w/Speed) pour détruire en mêlée
@@ -47,7 +47,8 @@ Tips pour faciliter les combats par starter (penser à monter vos [mods](mods.md
     - donne accès à :
         - l'[helminth](https://wiki.warframe.com/w/Panzer_Vulpaphyla)
         - [Panzer Vulpaphyla](https://wiki.warframe.com/w/Panzer_Vulpaphyla) (excellent compagnon)
-        - d'excellents [mods de mếlée](mods.md/#mods-armes--mêlée)
+        - le mod de boost loot [Prosperous Retriever](https://wiki.warframe.com/w/Resourceful_Retriever)
+        - d'excellents [mods de mếlée](../mods/weapons.md/#armes-melee)
         - [Cedo](https://wiki.warframe.com/w/Cedo) (excellent pompe avec AoE statut)
 - **Cetus**, Terre : ne pas prioriser, sauf si vous voulez obtenir Gara. Missions difficiles, avancer dans la Star Chart d'abord.
 - **Fortuna**, Venus : ne pas prioriser. Missions difficiles, avancer dans la Star Chart d'abord.

@@ -40,57 +40,6 @@ Classées par Mastery Rank (MR) pour une meilleure lisibilité. N'indique pas la
 
 -------------
 
-## **Mods arme : dégats**
-Il faut identifier les meilleures synergies pour vos armes et [cumuler les multiplicateurs](https://www.youtube.com/watch?v=FHOXcDAOUiY).
-
-- mods mêlée scaling : 
-      - prio : Blood Rush, Weeping Wounds, Condition Overload
-      - autres : en moindre mesure [Set Gladiateur](https://wiki.warframe.com/w/Gladiator_Set) (on aime bien [Gladiator Might](https://wiki.warframe.com/w/Gladiator_Might) mais il est outscale/dépassé par [Galvanized Steel](https://wiki.warframe.com/w/Galvanized_Steel) le plus souvent
-- regarder si l'arme a déjà du % **statut** ou % **crit** élevé de base et modder en conséquence (booster une valeur basse n'est pas intéressant)
-       - **stack de multiplicateurs** : dégats de base + dégats élementaires + multishot/vitesse attaque/portée + crit chance + crit damage.
-
-Statuts : 
-
-- si un doute pour les statuts à utiliser part sur du **Viral + Feu** ou **Corro + Feu** (grosse généralité mais ça dépanne)
-- pour un plus de détails consulter cette [vidéo expliquant les statuts et leurs forces](https://www.youtube.com/watch?v=ghYu61eRdPE)
-
-### **CO : Condition Overload, GunCO**
-Gros boost de dégats en perspective.
-On parle de CO pour toutes les [mécaniques similaires au mod Condition Overload](https://wiki.warframe.com/w/Condition_Overload_(Mechanic)) : les mods donnant un bonus de dégats selon la quantité de statuts différents présents sur une cible.
-
-Mods concernés : [Condition Overload](https://wiki.warframe.com/w/Condition_Overload), [Galvanized Aptitude](https://wiki.warframe.com/w/Galvanized_Aptitude), [Galvanized Shot](https://wiki.warframe.com/w/Galvanized_Shot), [Galvanized Savvy](https://wiki.warframe.com/w/Galvanized_Savvy) + quelques passifs d'armes (incarnon surtout).
-
-- de base le bonus de dégats de ces mods est **additif** avec vos dégats de base
-- dans certains cas le bonus de ces mods est **multiplicatif** avec vos dégats de base
-
-En dehors de l'usage classique avec un [primer](#priming) qui fonctionne pas mal avec le fonctionnement de base, on peut atteindre de très haut dégats quand l'arme fonctionne multiplicativement avec ce mod.
-
-Si vous n'avez pas la foi de tester une à une vos armes pour voir dans quelle catégorie elle tombe, consultez la [fiche communautaire gunCO](https://docs.google.com/spreadsheets/d/1ryemX4Y2vWy9LjuJ355bWVNuBhzLaHTTFqPeTNto9RA).
-
--------------
-
-
-## **Mods arme : survivre**
-Peu commun, les sources de survivabilité dans les armes peuvent compléter une setup/loadout trop fragile autrement (ex : warframe complètement orientée buff dégâts)
-
-- [**Arcane Secondary Fortifier**](https://wiki.warframe.com/w/Secondary_Fortifier) :
-    - permet aux armes secondaires de voler jusqu'à 15 000 overguard des ennemis pour votre frame
-    - plein d'eximus avec de l'overguard en steelpath = situation idéale pour cette arcane
-    - très bonne synergie avec armes statut DoT (dégats sur le temps) et/ou AoE (zone, area of effect),  ex : [Furis Incarnon](https://wiki.warframe.com/w/Furis_Incarnon_Genesis), [Akarius Prime](https://wiki.warframe.com/w/Akarius_Prime), [Kuva Nukor](https://wiki.warframe.com/w/Kuva_Nukor), [Dual Toxocyst incarnon](https://wiki.warframe.com/w/Dual_Toxocyst_Incarnon_Genesis)
-- [Rakta Dark Dagger](https://wiki.warframe.com/w/Rakta_Dark_Dagger) : génère des shields en attaquant des ennemis irradiés (l'arme a de la radiation de base). Bon en build influence elec pure, elec/blast, elec/gaz. Le passif ne marche pas à 0 boucliers il faut parfois en générer un peu en choisissant parmi les solutions suivantes :
-    - [Brief Respite](https://wiki.warframe.com/w/Brief_Respite)
-    - [mods de l'Augure](https://wiki.warframe.com/w/Category:Augur_Mods)
-    - [Fast Deflection](https://wiki.warframe.com/w/Fast_Deflection) + [Vigilante Vigor](https://wiki.warframe.com/w/Vigilante_Vigor)
-    - bonus : étant une dague, se combotte bien avec [Amalgam Argonak](https://wiki.warframe.com/w/Amalgam_Argonak_Metal_Auger) pour ajouter de l'armor strip à l'arme
-- [Energizing Shot](https://wiki.warframe.com/w/Energizing_Shot) + arme secondaire + tirer sur une orbe d'énergie + [Equilibrium](https://wiki.warframe.com/w/Equilibrium) / [shard violette](https://wiki.warframe.com/w/Archon_Shard) = rez autonome instant
-   - si besoin ajouter spectre de Protea / crewmate Kuva Zarr pour générer des orbes
-   - si besoin équiper [Undying Will](https://wiki.warframe.com/w/Undying_Will)
-- [Arcane Reaper](https://wiki.warframe.com/w/Arcane_Reaper) :
-    - rang max : +660 armure / +24 hp/sec pour 10s. Peut stack plusieurs fois
-    - de niche : nécessite un build orienté healthtank + une arme qui overkill déjà sans arcane (ex : griffes de Valkyr). On y préfèrera influence ou arcane exposure la plupart du temps
-
--------------
-
 
 ## **Incarnons**
 Tous les incarnons ont du potentiel, mais certains sont plus efficaces dans l'état actuel du jeu et/ou plus agréables à jouer de manière génèrale.
@@ -165,7 +114,7 @@ Exemple : utiliser Saryn pour avoir une arme toxine, Nezha pour une arme feu, Me
 Voir la liste des [status conseillés](https://i.hep.gg/NemesisProgenitors) pour les armes kuva et tenet.
 
 ### **Choix des armes de liche**
-L'essentiel est présent dans les [armes conseillées](#armes-conseillées).
+L'essentiel est présent dans les [armes conseillées](#armes-conseillees).
 
 #### **[Armes Kuva (grineer)](https://wiki.warframe.com/w/Kuva_Weapons)**
 
