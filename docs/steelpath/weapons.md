@@ -1,6 +1,6 @@
 Se focaliser sur **un petit pool d'armes** aussi, faire le circuit steel path pour obtenir des incarnons (avec les décrets et en groupe ça se fait tôt) voire les liches pour certaines armes. Les armes incarnon du Zariman (reput) sont très bien aussi.
 
-## ARMES CONSEILLÉES
+## **Armes conseillées**
 Classées par Mastery Rank (MR) pour une meilleure lisibilité. N'indique pas la puissance mais juste le niveau permettant d'y accéder.
 
 !!! note "Le MR minimal peut être trompeur"
@@ -40,7 +40,7 @@ Classées par Mastery Rank (MR) pour une meilleure lisibilité. N'indique pas la
 
 -------------
 
-## MODS ARME : DÉGATS
+## **Mods arme : dégats**
 Il faut identifier les meilleures synergies pour vos armes et [cumuler les multiplicateurs](https://www.youtube.com/watch?v=FHOXcDAOUiY).
 
 - mods mêlée scaling : 
@@ -54,7 +54,7 @@ Statuts :
 - si un doute pour les statuts à utiliser part sur du **Viral + Feu** ou **Corro + Feu** (grosse généralité mais ça dépanne)
 - pour un plus de détails consulter cette [vidéo expliquant les statuts et leurs forces](https://www.youtube.com/watch?v=ghYu61eRdPE)
 
-### CO : Condition Overload, GunCO
+### **CO : Condition Overload, GunCO**
 Gros boost de dégats en perspective.
 On parle de CO pour toutes les [mécaniques similaires au mod Condition Overload](https://wiki.warframe.com/w/Condition_Overload_(Mechanic)) : les mods donnant un bonus de dégats selon la quantité de statuts différents présents sur une cible.
 
@@ -63,14 +63,14 @@ Mods concernés : [Condition Overload](https://wiki.warframe.com/w/Condition_Ove
 - de base le bonus de dégats de ces mods est **additif** avec vos dégats de base
 - dans certains cas le bonus de ces mods est **multiplicatif** avec vos dégats de base
 
-En dehors de l'usage classique avec un [primer](#primer) qui fonctionne pas mal avec le fonctionnement de base, on peut atteindre de très haut dégats quand l'arme fonctionne multiplicativement avec ce mod.
+En dehors de l'usage classique avec un [primer](#priming) qui fonctionne pas mal avec le fonctionnement de base, on peut atteindre de très haut dégats quand l'arme fonctionne multiplicativement avec ce mod.
 
 Si vous n'avez pas la foi de tester une à une vos armes pour voir dans quelle catégorie elle tombe, consultez la [fiche communautaire gunCO](https://docs.google.com/spreadsheets/d/1ryemX4Y2vWy9LjuJ355bWVNuBhzLaHTTFqPeTNto9RA).
 
 -------------
 
 
-## MODS ARME : SURVIVRE
+## **Mods arme : survivre**
 Peu commun, les sources de survivabilité dans les armes peuvent compléter une setup/loadout trop fragile autrement (ex : warframe complètement orientée buff dégâts)
 
 - [**Arcane Secondary Fortifier**](https://wiki.warframe.com/w/Secondary_Fortifier) :
@@ -92,10 +92,10 @@ Peu commun, les sources de survivabilité dans les armes peuvent compléter une 
 -------------
 
 
-## Incarnons
+## **Incarnons**
 Tous les incarnons ont du potentiel, mais certains sont plus efficaces dans l'état actuel du jeu et/ou plus agréables à jouer de manière génèrale.
 
-### Incarnons prioritaires
+### **Incarnons prioritaires**
 Dans le doute, opter pour les incarnons suivants :
 
 - **natifs** (sans adaptateur) :
@@ -118,37 +118,37 @@ Dans le doute, opter pour les incarnons suivants :
       - semaine 7 : Hate, Dread
       - semaine 8 : Okina, Dera, Sybaris, Sicarus
 
-### Choix des armes pour adaptateurs
+### **Choix des armes pour adaptateurs**
 Les adaptateurs sont compatibles avec plusieurs armes, les bonus sont légèrement différents selon les armes. Se référer aux pages respectives des armes via le [détail des incarnons](https://wiki.warframe.com/w/Incarnon)
 
-**Primaires** :
+!!! note "Adaptateurs primaires"
 
-- _prime_ : Boar, Boltor, Braton, Gorgon, Latron, Paris, Strun, Sybaris 
-- _vandal_ : Dera
-- _prisma_ : Gorgon
-- _pas le choix_ : Dread, Miter, Torid
+      - _prime_ : Boar, Boltor, Braton, Gorgon, Latron, Paris, Strun, Sybaris 
+      - _vandal_ : Dera
+      - _prisma_ : Gorgon
+      - _pas le choix_ : Dread, Miter, Torid
 
-**Secondaires** :
+!!! note "Adaptateurs secondaires"
 
-- _prime_ : Bronco, Lato (fondateur), Lex, Sicarus, Vasto, Zylok
-- _normal_ (non mk-1) : Furis
-- _prisma_ : Angstrum 
-- _synoid_ : Gammacor
-- _vandal_ : Lato
-- _pas le choix_ : Atomos, Cestra, Despair, Dual Toxocyst: 
+      - _prime_ : Bronco, Lato (fondateur), Lex, Sicarus, Vasto, Zylok
+      - _normal_ (non mk-1) : Furis
+      - _prisma_ : Angstrum 
+      - _synoid_ : Gammacor
+      - _vandal_ : Lato
+      - _pas le choix_ : Atomos, Cestra, Despair, Dual Toxocyst
 
-**Mếlée** :
+!!! note "Adaptateurs mếlée"
 
-- _prime_ : Bo, Okina, Skana (fondateur)
-- _normal_ : Magistar (pas le sancti)
-- _wraith_ : Furax 
-- _prisma_ : Skana
-- _pas le choix_ : Ack & Brunt, Anku, Ceramic Dagger, Dual ichor, Hate,  Nami Solo, Sibear
+      - _prime_ : Bo, Okina, Skana (fondateur)
+      - _normal_ : Magistar (pas le sancti)
+      - _wraith_ : Furax 
+      - _prisma_ : Skana
+      - _pas le choix_ : Ack & Brunt, Anku, Ceramic Dagger, Dual ichor, Hate,  Nami Solo, Sibear
 
 -------------
 
 
-## Armes de liche
+## **Armes de liche**
 Beaucoup d'armes possibles, certaines plus sympa que d'autres. 
 3 différents types de liches à ce jour :
 
@@ -156,7 +156,7 @@ Beaucoup d'armes possibles, certaines plus sympa que d'autres.
 - corpus : [soeur de parvos](https://wiki.warframe.com/w/Sisters_of_Parvos)
 - infestés : [technocyte coda](https://wiki.warframe.com/w/Technocyte_Coda)
 
-### Status / progéniteurs
+### **Status / progéniteurs**
 Les armes de liche bénéficient d'un bonus de dégats/statuts de +20 à +60%, dont le statut est déterminé par la frame qui a généré la liche (larve, candidat...).
 
 Voir la [liste des progéniteurs](https://wiki.warframe.com/w/Kuva_Lich/Progenitor) pour plus de détail.
@@ -164,32 +164,38 @@ Exemple : utiliser Saryn pour avoir une arme toxine, Nezha pour une arme feu, Me
 
 Voir la liste des [status conseillés](https://i.hep.gg/NemesisProgenitors) pour les armes kuva et tenet.
 
-### Choix des armes de liche
+### **Choix des armes de liche**
 L'essentiel est présent dans les [armes conseillées](#armes-conseillées).
 
-**[Armes Kuva (grineer)](https://wiki.warframe.com/w/Kuva_Weapons)** :
+#### **[Armes Kuva (grineer)](https://wiki.warframe.com/w/Kuva_Weapons)**
 
-- _prio_ : Kuva Nukor
-- _niche meta_ : Kuva Hek, Kuva Ogris, Kuva Sobek, Kuva Zarr, Kuva Bramma
-- _niche non-meta_ : Kuva Kohm, Kuva Hind, Kuva Quartakk, Kuva Tonkor, Kuva Chakkhurr
-- _autres_:  Kuva Drakgoon, Kuva Hind, Kuva Karak, Brakk, Kraken, Seer, Twin Stubbas, Grattler, Kuva Shildeg, Kuva Ayanga
+!!! note "Armes Kuva par ordre de priorité"
 
-**[Armes Tenet (corpus)](https://wiki.warframe.com/w/Tenet_Weapons)** :
+      - _prio_ : Kuva Nukor
+      - _niche meta_ : Kuva Hek, Kuva Ogris, Kuva Sobek, Kuva Zarr, Kuva Bramma
+      - _niche non-meta_ : Kuva Kohm, Kuva Hind, Kuva Quartakk, Kuva Tonkor, Kuva Chakkhurr
+      - _autres_:  Kuva Drakgoon, Kuva Hind, Kuva Karak, Brakk, Kraken, Seer, Twin Stubbas, Grattler, Kuva Shildeg, Kuva Ayanga
+
+#### **[Armes Tenet (corpus)](https://wiki.warframe.com/w/Tenet_Weapons)**
 Ajout des armes Tenet disponibles via [Holokeys](https://wiki.warframe.com/w/Corrupted_Holokey) chez [Ergo Glast](https://wiki.warframe.com/w/Ergo_Glast) en relai, holokeys obtenables en faisant des fissures Railjack, notées d'une étoile *
 
-- _prio_ : Tenet Arca Plasmor, Tenet Glaxion, Tenet Cycron
-- _niche meta_ : Tenet Plinx, Tenet Diplos
-- _niche non-meta_ : Tenet Flux Rifle , Tenet Tetra, Tenet Detron, Tenet Envoy, Tenet Exec*
-- _autres_ : Tenet Spirex, Tenet Agendus*, Tenet Livia*, Tenet Grigori*, Tenet Ferrox*
+!!! note "Armes Tenet par ordre de priorité"
 
-**[Armes Coda (infestés)](https://wiki.warframe.com/w/Coda_Weapons)** :
+      - _prio_ : Tenet Arca Plasmor, Tenet Glaxion, Tenet Cycron
+      - _niche meta_ : Tenet Plinx, Tenet Diplos
+      - _niche non-meta_ : Tenet Flux Rifle , Tenet Tetra, Tenet Detron, Tenet Envoy, Tenet Exec*
+      - _autres_ : Tenet Spirex, Tenet Agendus*, Tenet Livia*, Tenet Grigori*, Tenet Ferrox*
 
-- _prio_ : Coda Bassocyst
-- _niche meta_ : Coda Hema, Coda Synapse, Coda Tysis,  Coda Pathocyst, Dual Coda Torxica
-- _niche non-meta_ : Coda Sporothrix,  Coda Pox, Coda Mire, Coda Hirudo
-- _autres_ : Coda Catabolyst, Coda Caustacyst, Coda Motovore
+#### **[Armes Coda (infestés)](https://wiki.warframe.com/w/Coda_Weapons)**
 
-### Obtention des armes de liche
+!!! note "Armes Coda par ordre de priorité"
+
+      - _prio_ : Coda Bassocyst
+      - _niche meta_ : Coda Hema, Coda Synapse, Coda Tysis,  Coda Pathocyst, Dual Coda Torxica
+      - _niche non-meta_ : Coda Sporothrix,  Coda Pox, Coda Mire, Coda Hirudo
+      - _autres_ : Coda Catabolyst, Coda Caustacyst, Coda Motovore
+
+### **Obtention des armes de liche**
 ??? note "Liches Grineer (Kuva)"
 
       -  être MR5 minimum, avoir fait la [Guerre Intérieure](https://wiki.warframe.com/w/The_War_Within)
@@ -228,7 +234,7 @@ Ajout des armes Tenet disponibles via [Holokeys](https://wiki.warframe.com/w/Cor
       - une fois la bonne combinaison trouvée, battre la liche en mission railjack sur [Proxima de la Terre](https://wiki.warframe.com/w/Earth_Proxima). Utiliser Revenant et/ou silence et une arme qui tire vite (Dual Toxocyst Incarnon) pour se faciliter la vie. Tuer la liche pour obtenir son arme.
 
 
-## Priming
+## **Priming**
 Le [**priming**](https://www.youtube.com/watch?v=oj1SnZOxBp4) consiste à "préparer" des ennemis avec une source de statuts pour qu'une autre arme dégâts bénéficiant de ces statuts le détruise encore plus fort juste après. Gros boost de dégâts en perspective, ça peut permettre de passer un cap (trash mobs Steel Path, mini-boss comme les démolystes en perturbation).
 
 Voir aussi l'interaction avec [les mods CO / GunCO](https://wiki.warframe.com/w/Condition_Overload_(Mechanic)) (**condition overload**/surcharge d'état, galvanized shot, galvanized aptitude).

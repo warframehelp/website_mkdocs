@@ -33,7 +33,7 @@ La sélection est déjà réduite, pour pousser encore plus loin les **top prio 
     - [Helminth](#helminth) : 
        - [Evade](https://wiki.warframe.com/w/Evade) de Cyte, peu compatible au jeu en groupe
        - [Quiver](https://wiki.warframe.com/w/Quiver) d'Ivara, réservé à un gameplay statique ou hasardeux (possible de planter la flèche dans votre sentinelle pour )
-    - [compagnons](#compagnons) : pour les frames "caster" qui n'ont pas besoin d'utiliser d'arme (Protea, Xaku, Dante...)
+    - [compagnons](pets.md) : pour les frames "caster" qui n'ont pas besoin d'utiliser d'arme (Protea, Xaku, Dante...)
       - [Shade Prime](https://wiki.warframe.com/w/Ghost) : plus solide, accès au mod Guardian
       - [Huras Kubrow](https://wiki.warframe.com/w/Stalk) : companion libre qui peut mourrir plus facilement, donne l'accès aux mods récupérateur + nuke Kubrow
 
@@ -133,7 +133,7 @@ On peut s'en protéger de différentes manières via des [immunités](https://wi
 !["Huge DPS Increase"](../assets/steelpath/PSF.gif){ width="150" align=right }
 
 - pas obligatoire, fortement **recommandé**. En steel path il y a + d'eximus et une plus grande densité de mobs : + de contrôles dangereux. Etre immunisé permet d'éviter de mourir pendant qu'un mob te fait tomber sans pouvoir réagir
-- avoir une frame immunisée via compétences ou [Overguard](https://wiki.warframe.com/w/Overguard) (cf [warframes](#warframes))
+- avoir une frame immunisée via compétences ou [Overguard](https://wiki.warframe.com/w/Overguard) (cf [warframes](#frames-conseillées))
 - utiliser [Primed Sure Footed](https://wiki.warframe.com/w/Primed_Sure_Footed) ou [Handspring](https://wiki.warframe.com/w/Handspring) pour les contrôles
 - éviter [Sure Footed (non-prime)](https://wiki.warframe.com/w/Sure_Footed)
   - si PSF impossible, préférer [Handspring](https://wiki.warframe.com/w/Handspring), ne prend qu'un seul mod

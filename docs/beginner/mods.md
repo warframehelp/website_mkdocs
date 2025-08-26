@@ -7,7 +7,7 @@
 Dans votre arsenal, vous pouvez modifier/améliorer votre équipement.
 Une fois une frame ou une arme sélectionnée vous pouvez choisir d'éditer leurs caractéristiques par l'ajout de mods.
 Sur l'écran d'édition, vous pouvez voir la capacité en haut à gauche, indiquant le "poids" des mods que vous pouvez équiper (ex : capacité 10 = 2 mods à 5 de capacité).
-   - Tous les objets équipables (frames, arme, compagnon, archwing etc) occupent un emplacement** limité. Vous pouvez en acheter plus, mais cela coûtera des [platinum](farm.md/#plats)
+   - Tous les objets équipables (frames, arme, compagnon, archwing etc) occupent un emplacement** limité. Vous pouvez en acheter plus, mais cela coûtera des [platinum](../farm.md/#plats)
    - La capacité de base augmente avec votre niveau de [maîtrise](mastery-rank.md) de compte, jouer avec un objet donné augmente sa maîtrise et sa capacité aussi
    - On peut augmenter rapidement la capacité d'une frame ou d'une arme en équipant respectivement une aura (ex : [Dreamer's Bond]()) et une posture (ex : [Swooping Falcon](https://wiki.warframe.com/w/Swooping_Falcon) pour Skana)
    - Le coût en crédits et endo pour monter les mods est exponentiel, il dépend de :
@@ -28,7 +28,7 @@ Vous pourrez faire différents loadouts, par exemple :
 
 Les mods vous rendent plus fort.
 Fusionner (monter de rang) vos mods rend vos mods encore plus efficaces : il vaut mieux 2 mods montés qui prennent 15 de capacité et beaucoup de stats que 6 mods qui en occupent autant en ne donnant quasi rien.
-Il vous faudra de l'endo et des crédits pour monter vos mods, voir [Farm](farm.md) pour plus d'infos.
+Il vous faudra de l'endo et des crédits pour monter vos mods, voir [Farm](../farm.md) pour plus d'infos.
 
 Plus les mods sont "brillants" (bronze > silver > gold > primed/galvanisé/archonte) plus cela coûtera cher à monter.
 

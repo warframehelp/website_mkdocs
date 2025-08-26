@@ -1,4 +1,4 @@
-Les [compagnons](https://wiki.warframe.com/w/Companion) se distinguent surtout par les [mods de compagnon](https://wiki.warframe.com/w/Companion_Mods) qui leurs sont exclusifs, ainsi que l'accès à différentes armes. Pensez à récupérer les mods prioritaires parmi les mods listés dans [Mods : base](#mods--base).
+Les [compagnons](https://wiki.warframe.com/w/Companion) se distinguent surtout par les [mods de compagnon](https://wiki.warframe.com/w/Companion_Mods) qui leurs sont exclusifs, ainsi que l'accès à différentes armes. Pensez à récupérer les mods prioritaires parmi les mods listés dans [Mods : base](../mods.md).
 
 
 Ils complètent vos builds via différents bonus :
@@ -11,11 +11,11 @@ Ils complètent vos builds via différents bonus :
     - **Radar ennemis / ressources** ([Animal Instinct](https://wiki.warframe.com/w/Animal_Instinct) / [Primed Animal Instinct](https://wiki.warframe.com/w/Primed_Animal_Instinct)
     - **boost [loots](https://wiki.warframe.com/w/Category:Retriever_Mods) ressources / crédits**
     - survivabilité
-    - **génération d'[énergie](#énergie)** : [Synth Deconstruct](https://wiki.warframe.com/w/Synth_Deconstruct) / [Dig](https://wiki.warframe.com/w/Dig) / [Energy Generator](https://wiki.warframe.com/w/Energy_Generator) / [Archon Stretch](https://wiki.warframe.com/w/Archon_Stretch) + [Arc Coil](https://wiki.warframe.com/w/Arc_Coil) ou mod de griffe electrique
+    - **génération d'[énergie](warframes.md/#énergie)** : [Synth Deconstruct](https://wiki.warframe.com/w/Synth_Deconstruct) / [Dig](https://wiki.warframe.com/w/Dig) / [Energy Generator](https://wiki.warframe.com/w/Energy_Generator) / [Archon Stretch](https://wiki.warframe.com/w/Archon_Stretch) + [Arc Coil](https://wiki.warframe.com/w/Arc_Coil) ou mod de griffe electrique
     - contrôle :
         - compétences : [Arc Coil](https://wiki.warframe.com/w/Arc_Coil) du Diriga
         - armes : [Tazicor](https://wiki.warframe.com/w/Tazicor) + [Duplex Bond](https://wiki.warframe.com/w/Duplex_Bond) + statut CC (feu / froid / électrique)
-    - [priming](#priming)
+    - [priming](weapons.md/#priming)
     - anti-status
     - etc...
 

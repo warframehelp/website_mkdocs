@@ -14,7 +14,7 @@ Pour identifier les sources de [ressources](https://wiki.warframe.com/w/Resource
 
 - survoler une ressource dans un blueprint de la fonderie, le texte vous donnera des infos
 - cliquer dans la navigation sur une planète et en bas à droite accéder à l'interface d'extracteur de ressource, vous verrez les ressources basiques droppables sur la planète
-- chercher votre ressource sur le [wiki warframe](https://wiki.warframe.com), voir [Contenu](../content.md) pour plus d'infos
+- chercher votre ressource sur le [wiki warframe](https://wiki.warframe.com), voir [Contenu](content.md) pour plus d'infos
 
 
 ### **Ressources : Boosters**
@@ -23,7 +23,7 @@ Le  [booster de ressources](https://wiki.warframe.com/w/Resource_Booster) (orang
 
 Source de booster de ressources :
 
-- [warframes de farm](warframes.md/#frames-de-farm)
+- [warframes de farm](beginner/warframes.md/#frames-de-farm)
 - [compagnons](https://gist.github.com/mijkami/71551f1d06959ccaef305571477fb9d8#compagnons)
 - market : [booster de ressources](https://wiki.warframe.com/w/Resource_Booster). Coûte des plats, après les emplacements est un achat prioritaire qui vous permettra d'accélérer votre farm de ressources ET votre farm de plats (cercle virtueux). Les boosters de 30j sont les plus rentables en coût/journée effective.
 - [reliques endless](https://wiki.warframe.com/w/Void_Fissure#Endless_Missions) (survie, défense...) : cumule jusqu'à +100% chances de drops ressources
@@ -177,7 +177,7 @@ Top des sources d'XP :
 ### **XP : Boosters**
 
 Le booster d'XP de la boutique n'est pas nécessaire mais appréciable.
-Plus tard vous pourrez aussi obtenir un [Kavat Smeeta](https://wiki.warframe.com/w/Smeeta_Kavat) qui donne un buff 300% XP via son mod [Charm]https://wiki.warframe.com/w/Charm). Voir [compagnons](pets.md) pour plus d'infos
+Plus tard vous pourrez aussi obtenir un [Kavat Smeeta](https://wiki.warframe.com/w/Smeeta_Kavat) qui donne un buff 300% XP via son mod [Charm]https://wiki.warframe.com/w/Charm). Voir [compagnons](beginner/pets.md) pour plus d'infos
 
 ### **XP : Spots**
 
@@ -220,7 +220,7 @@ Le booster de crédit de la boutique n'est pas nécessaire mais appréciable.
         - echap > equipement > inventaire. Menu déroulant à droite, sélectionner "doublons". Vendre les parties de frame en doublon que vous avez qui ne sont pas échangeables (ex : "Harrow chassis", vous en choperez plein en permanence)
         - /!\ vente de mods : ne JAMAIS vendre vos mods pour des crédits, le gain est limité et il faut toujours prioriser l'endo quand on détruit des mods en doublons
     - farm Dark Sector: maps avec des boosts supplémentaires, un par planète (ex :  Gabii sur Ceres )
-    - farm [mission longue](starchart.md)
+    - farm [mission longue](beginner/starchart.md)
     - Index sur Neptune, partir en groupe / multi au début pour être accompagné
     - Railjack : possibilité d'être accompagné en mission railjack dès que vous avez un archwing, bonne source de crédits/ressources. Proxima de la Terre et de Venus sont assez accessibles.
 
@@ -265,7 +265,7 @@ Ouvrir des reliques vous donnera :
         - le convertir en ducats chez le Baro, acheter mods primes & autres
         - le vendre pour des [Plats](#plats), de préférence en lots complets (exemple : les 4 pièces d'une frame)
 
-Votre pool maximum de vestiges du néant dépend de votre [niveau de maîtrise](mastery-rank.md).
+Votre pool maximum de vestiges du néant dépend de votre [niveau de maîtrise](beginner/mastery-rank.md).
 Les vestiges ne se stockent plus une fois atteint votre maximum, pensez à dépenser vos vestiges (clés du néant, raffinage de relique) avant d'arriver au maximum pour ne rien perdre.
 
 ??? note "Stratégie ouverture de reliques"
@@ -278,7 +278,7 @@ Les vestiges ne se stockent plus une fois atteint votre maximum, pensez à dépe
         - Meso / Neo : Ukko dans le Néant
         - Axi : Apollo sur Lua
     - trouver des groupes relique :
-        -  le discord Burner ([cf contenu/Discord](#discord))
+        -  le discord Burner ([cf contenu/Discord](content.md/#discord))
         -  le canal public pour ouvrir des reliques en groupe (jeu en anglais, serveur EU ou amérique)
     - penser à ne jamais être capé en traces du néant (monter en rad / flawless un stock en continu), sinon les drops de nouvelles traces/réactifs seront perdus
 
@@ -330,7 +330,7 @@ Certaines reliques sont plus intéressantes que d'autres, un mix entre la raret�
             - plus ou moins mêmes sources que les [reliques](#sources-de-reliques)
             - mises à prix en open-world, plus ou moins rentables, dont 2 méthodes en particulier :
             - [Brute Force](https://www.youtube.com/watch?v=rfV_KoJGvPI) sur Deimos (le + accessible), à faire en solo ou à 2 (certains objectifs deviennent trop longs à 3 et 4 joueurs)
-            - [Bounties opti sur Cetus](https://www.youtube.com/watch?v=eovwUJXV6Ow) sur Cetus (+ rentable mais inaccessible pour un nouveau joueur, à réserver en groupe pour [plus tard](https://gist.github.com/mijkami/c5789f0d6f59893d58d149f30939b26a#discord))
+            - [Bounties opti sur Cetus](https://www.youtube.com/watch?v=eovwUJXV6Ow) sur Cetus (+ rentable mais inaccessible pour un nouveau joueur, à réserver en groupe pour [plus tard](content.md/#discord))
 - **ouvrir des reliques** : 2 types de farm
     - **pick-up pur / random** : ouvrir des reliques aléatoires sans faire de groupe à l'avance
         - permet de bénéficier aléatoirement de drops d'alliés
@@ -389,7 +389,7 @@ Avoir un booster doubleur de ressources aide pour certaines farm, comme l'ouvert
 
     Sert surtout pour les emplacements au début du jeu, le reste viendra plus tard (cosmétiques, trade)
     Le jeu vous offre quelques plats à la création de votre compte, à dépenser dans la boutique : il faut les dépenser dans des emplacements en priorité.
-    Les plats viendront d'échanges avec d'autres joueurs, la quantité d'échanges par jours est égale à votre [rang de maîtrise](mastery-rank.md).
+    Les plats viendront d'échanges avec d'autres joueurs, la quantité d'échanges par jours est égale à votre [rang de maîtrise](beginner/mastery-rank.md).
 
 !!! note "Trouver / identifier une méthode de farm"
 
