@@ -47,7 +47,7 @@ Essentiellement des armes à projectiles aoe :
 - primaires :  Arca Plasmor, Tenet Arca Plasmor, Kuva Bramma, Kuva Zarr, Latron incarnon (avec passif armor strip)
 - secondaires : [Lex Incarnon](https://www.youtube.com/watch?v=t0ftV62I-_E), Tenet Plinx, kigtun secondaire Haymaker + Splat + Sporelacer (moddé corro/crit)
 
-### **Alliés non-joueurs** : 
+### **Alliés non-joueurs**
 Les réductions de dégats ne s'appliquent qu'aux joueurs, on utilisera :
 
 - crewmate railjack avec grosse arme (Kuva Zarr)

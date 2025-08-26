@@ -34,6 +34,14 @@
 
     [:octicons-arrow-right-24: Mods](../mods.md)
 
+-   :material-scale-balance:{ .lg .middle } __Acolytes__
+
+    ---
+
+    Gérer et transformer la menace en ressources
+
+    [:octicons-arrow-right-24: Acolytes](acolytes.md)
+
 -   :material-scale-balance:{ .lg .middle } __Youtube__
 
     ---
@@ -41,7 +49,6 @@
     Suivre un build récent dans les chaînes du haut de la liste
 
     [:octicons-arrow-right-24: Youtube](../content.md/#vidéos)
-
 
 </div>
 
